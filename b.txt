@@ -1,0 +1,383 @@
+PS D:\Downloads ve\output\vendor_a> Get-Content .\etc\init\unisoc.rild.rc
+>>
+>> Get-Content .\etc\permissions\android.hardware.telephony.ims.xml
+>>
+>> Get-Content .\etc\imsUserAgent.xml
+service vendor.ril-daemon /vendor/bin/hw/urild
+    class core
+    user radio
+    group radio cache inet misc audio log readproc wakelock sdcard_rw shell system dhcp
+    capabilities BLOCK_SUSPEND NET_ADMIN NET_RAW
+
+#STK BIP IPV6
+service vendor.stk /vendor/bin/netbox.sh stk
+    user root
+    disabled
+    oneshot
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- Feature for devices that support IMS via ImsService APIs. -->
+<permissions>
+    <feature name="android.hardware.telephony.ims" />
+</permissions>
+<imsUserAgent version="1.0" type="device">
+    <config value="1">
+        <element>46000</element>
+        <element>46001</element>
+    </config>
+    <config value="2">
+        <element>46002</element>
+        <element>46003</element>
+    </config>
+    <config value="3">
+        <element>65501</element>
+        <element>65502</element>
+    </config>
+    <config value="4">
+        <element>72402</element>
+        <element>72403</element>
+    </config>
+    <config value="5">
+        <element>50218</element>
+        <element>46605</element>
+        <element>26001</element>
+        <element>26012</element>
+        <element>26004</element>
+        <element>26015</element>
+        <element>26016</element>
+        <element>26017</element>
+    </config>
+    <config value="6">
+        <element>26003</element>
+        <element>26005</element>
+    </config>
+    <config value="7">
+        <element>732101</element>
+    </config>
+    <config value="8">
+        <element>74000</element>
+    </config>
+</imsUserAgent>
+PS D:\Downloads ve\output\vendor_a>
+ndung manifest_dualsim.xml
+<manifest version="1.0" type="device">
+    <hal format="hidl">
+        <name>android.hardware.radio</name>
+        <transport>hwbinder</transport>
+        <version>1.5</version>
+        <interface>
+            <name>IRadio</name>
+            <instance>slot1</instance>
+            <instance>slot2</instance>
+        </interface>
+        <fqname>@1.2::ISap/slot1</fqname>
+        <fqname>@1.2::ISap/slot2</fqname>
+    </hal>
+    <hal format="hidl">
+        <name>android.hardware.radio.config</name>
+        <transport>hwbinder</transport>
+        <version>1.1</version>
+        <interface>
+            <name>IRadioConfig</name>
+            <instance>default</instance>
+        </interface>
+    </hal>
+    <hal format="hidl">
+        <name>vendor.sprd.hardware.radio</name>
+        <transport>hwbinder</transport>
+        <version>1.0</version>
+        <interface>
+            <name>IExtRadio</name>
+            <instance>slot1</instance>
+            <instance>slot2</instance>
+        </interface>
+    </hal>
+    <hal format="hidl">
+        <name>vendor.sprd.hardware.radio.ims</name>
+        <transport>hwbinder</transport>
+        <version>1.0</version>
+        <interface>
+            <name>IImsRadio</name>
+            <instance>slot1</instance>
+            <instance>slot2</instance>
+        </interface>
+    </hal>
+    <hal format="hidl">
+        <name>android.hardware.secure_element</name>
+        <transport>hwbinder</transport>
+        <version>1.0</version>
+        <interface>
+            <name>ISecureElement</name>
+            <instance>SIM1</instance>
+            <instance>SIM2</instance>
+        </interface>
+    </hal>
+</manifest>
+
+vendor_hwservice_context.xml
+vendor.sprd.hardware.radio::IExtRadio     u:object_r:hal_extRadio_hwservice:s0
+vendor.sprd.hardware.radio.lite::ILiteRadio     u:object_r:hal_extRadio_hwservice:s0
+vendor.sprd.hardware.radio.ims::IImsRadio     u:object_r:hal_extRadio_hwservice:s0
+vendor.sprd.hardware.log::ILogControl     u:object_r:hal_log_hwservice:s0
+vendor.sprd.hardware.thermal::IExtThermal     u:object_r:hal_extthermal_hwservice:s0
+vendor.sprd.hardware.power::IPower        u:object_r:hal_power_hwservice:s0
+android.hardware.power.stats::IPowerStats       u:object_r:hal_power_stats_hwservice:s0
+vendor.sprd.hardware.gnss::IGnss     u:object_r:hal_extGnss_hwservice:s0
+vendor.sprd.hardware.aprd::IAprdInfoSync     u:object_r:hal_aprd_hwservice:s0
+vendor.sprd.hardware.enhance::IEnhance     u:object_r:hal_enhance_hwservice:s0
+vendor.sprd.hardware.cplog_connmgr::IConnectControl u:object_r:hal_cplog_connmgr_hwservice:s0
+vendor.sprd.hardware.network::INetworkControl   u:object_r:hal_network_hwservice:s0
+vendor.sprd.hardware.vdsp::IVdspService u:object_r:hal_default_vdsp_hwservice:s0
+
+vendor.oppo.engnative.engineer::IEngineer u:object_r:oppo_hal_engineer_hwservice:s0
+
+vendor.oppo.engnative.engsensor::IEngSensor u:object_r:oppo_hal_engsensor_hwservice:s0
+vendor.sprd.hardware.boot::IBootControl   u:object_r:hal_bootctl_hwservice:s0
+vendor.sprd.hardware.face::IExtBiometricsFace u:object_r:hal_face_hwservice:s0
+vendor.sprd.hardware.wifi.hostapd::IHostapd     u:object_r:hal_hostapd_hwservice:s0
+vendor.sprd.hardware.connmgr::IConnmgr     u:object_r:hal_connmgr_hwservice:s0
+vendor.sprd.hardware.wcn::IWcnVendorInterface     u:object_r:hal_wcn_hwservice:s0
+vendor.nxp.nxpnfc::INxpNfc                                  u:object_r:nxpnfc_hwservice:s0
+vendor.nxp.nxpnfclegacy::INxpNfcLegacy                      u:object_r:nxpnfc_hwservice:s0
+vendor.nxp.nxpese::INxpEse                                  u:object_r:nxpese_hwservice:s0
+vendor.nxp.eventprocessor::INxpEseEvtProcessor              u:object_r:eventprocessor_hwservice:s0
+vendor.nxp.nxpese::INxpWiredSe                              u:object_r:hal_wired_se_hwservice:s0
+vendor.nxp.nxpwiredse::INxpWiredSe                          u:object_r:hal_wired_se_hwservice:s0
+# build.prop
+
+ro.boot.dynamic_partitions=true
+ro.product.first_api_level=30
+ro.vendor.build.security_patch=2024-02-05
+ro.vendor.product.cpu.abilist=armeabi-v7a,armeabi
+ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.vendor.product.cpu.abilist64=
+ro.product.board=RMX3235
+ro.board.platform=sp9863a
+ro.hwui.use_vulkan=
+ro.build.ab_update=true
+# begin common build properties
+# autogenerated by build/make/tools/buildinfo_common.sh
+ro.vendor.build.date=Thu May  9 20:30:16 CST 2024
+ro.vendor.build.date.utc=1715257816
+ro.vendor.build.fingerprint=realme/RMX3235/RED8FA:11/RP1A.201005.001/1709693423086:user/release-keys
+ro.vendor.build.id=RP1A.201005.001
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+ro.vendor.build.version.incremental=538
+ro.vendor.build.version.release=11
+ro.vendor.build.version.release_or_codename=11
+ro.vendor.build.version.sdk=30
+ro.product.vendor.brand=realme
+ro.product.vendor.device=RMX3235
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX3235
+# end common build properties
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu May 9 20:30:16 CST 2024
+ro.bootimage.build.date.utc=1715257816
+ro.bootimage.build.fingerprint=realme/RMX3235/RED8FA:11/RP1A.201005.001/1709693423086:user/release-keys
+#
+# ADDITIONAL VENDOR BUILD PROPERTIES
+#
+import /vendor/build_${ro.boot.product.regionmark}.prop
+import /vendor/projectname_${ro.boot.product.prjversion}.prop
+ro.carrier=unknown
+ro.config.notification_sound=OnTheHunt.ogg
+ro.config.alarm_alert=Alarm_Classic.ogg
+ro.config.low_ram=true
+ro.lmk.use_minfree_levels=false
+ro.lmk.critical_upgrade=true
+ro.lmk.upgrade_pressure=30
+ro.lmk.downgrade_pressure=60
+ro.lmk.kill_heaviest_task=false
+ro.config.per_app_memcg=false
+ro.lmk.low=1001
+ro.lmk.medium=700
+ro.lmk.critical=201
+init.userspace_reboot.is_supported=true
+ro.vendor.ko.mount.point=/mnt/vendor
+persist.vendor.eng.reset=1
+ro.af.client_heap_size_kbyte=2049
+ro.vendor.audio_tunning.dual_spk=2
+ro.config.media_vol_default=10
+ro.config.system_vol_default=1
+persist.vendor.cam.ba.blur.version=1
+persist.vendor.cam.lpt.level.enable=1
+persist.vendor.cam.lightportrait.ba.enable=0
+persist.vendor.cam.lightportrait.fr.enable=0
+persist.vendor.cam.res.bokeh=RES_12M
+persist.sys.cam.slow_motion=false
+persist.vendor.cam.multicam.cali.veri=1
+persist.sys.cam.fast.blur=true
+persist.sys.cam.eois.dc.back=false
+persist.sys.cam.eois.dc.front=false
+persist.sys.cam.eois.dv.back=false
+persist.sys.cam.eois.dv.front=false
+persist.vendor.cam.dv.ba.eispro.enable=0
+persist.vendor.cam.portrait.fnum.portrait=1
+persist.sys.cam.fast.automode=true
+persist.vendor.cam.fast.automode=true
+ro.vendor.camera.dualcamera_cali_enable=0
+ro.vendor.camera.dualcamera_cali_time=3
+persist.vendor.cam.fr.blur.version=1
+persist.vendor.cam.cnr.mode=1
+persist.vendor.cam.hdr.cnr.mode=1
+persist.vendor.cam.facebeauty.corp=2
+persist.vendor.cam.ai.scence.enable=false
+persist.vendor.cam.res.blur.ba=RES_8M
+persist.vendor.cam.faceid.version=1
+persist.vendor.cam.ba.portrait.enable=1
+persist.vendor.cam.fr.portrait.enable=1
+persist.vendor.cam.hdr.zsl=1
+persist.vendor.cam.night.pro.enable=0
+persist.sys.cam.manual.shutter=true
+persist.sys.cam.manual.focus=true
+persist.sys.3d.calibraion=1
+persist.sys.cam3.type=back_blur
+persist.sys.cam3.multi.cam.id=2
+persist.vendor.faceid.livenessgrade=3
+persist.sys.cam.voicephoto=false
+persist.sys.cam.qrcode=false
+persist.sys.cam.3dnr=false
+persist.vendor.cam.preveiw.3dnr_enable=true
+persist.sys.cam.filter.version=0
+ro.sf.lcd_density=320
+ro.sf.lcd_width=54
+ro.sf.lcd_height=96
+ro.hardware.nfc_nci=pn8x
+ro.opengles.version=196610
+ro.camera.enableLazyHal=true
+ro.audio.offload_wakelock=1
+ro.vendor.audio_tunning.nr=1
+ro.vendor.display.sr=true
+persist.sys.pq.enabled=1
+persist.vendor.modem.log_dest=0
+persist.vendor.wcn.log_dest=0
+persist.vendor.sys.modemreset=1
+persist.vendor.sys.modem.save_dump=1
+ro.vendor.modem.dev=/proc/cptl/
+ro.vendor.modem.tty=/dev/stty_lte
+ro.vendor.modem.eth=seth_lte
+ro.vendor.modem.snd=1
+ro.vendor.radio.modemtype=l
+ro.vendor.modem.diag=/dev/sdiag_lte
+ro.vendor.modem.log=/dev/slog_lte
+ro.vendor.modem.loop=/dev/spipe_lte0
+ro.vendor.modem.nv=/dev/spipe_lte1
+ro.vendor.modem.assert=/dev/spipe_lte2
+ro.vendor.modem.fixnv_size=0x100000
+ro.vendor.modem.runnv_size=0x120000
+persist.vendor.modem.nvp=l_
+persist.vendor.modem.l.enable=1
+persist.vendor.sys.isfirstboot=1
+ro.vendor.sp.log=/dev/slog_pm
+ro.virtual_ab.enabled=true
+ro.vendor.keybox.id.value=SPRD
+ro.crypto.dm_default_key.options_format.version=2
+persist.vendor.bsservice.enable=1
+media.stagefright.thumbnail.prefer_hw_codecs=true
+drm.service.enabled=true
+ro.lmk.psi_complete_stall_ms=400
+ro.lmk.swap_free_low_percentage=20
+ro.zram.mark_idle_delay_mins=60
+ro.zram.first_wb_delay_mins=180
+ro.zram.periodic_wb_delay_hours=24
+persist.sys.zram_enabled=1
+persist.sys.bl.max=4095
+persist.sys.pwctl.enable=1
+persist.sys.pwctl.guru=1
+persist.sys.pwctl.appidle=1
+persist.sys.pwctl.bgclean=1
+persist.sys.pwctl.gps=1
+persist.sys.pwctl.wl=1
+persist.sys.pwctl.appidle.force=1
+persist.sys.pwctl.onlysave=0
+persist.sys.pwctl.appstats=0
+persist.sys.pwctl.gps.onlysave=0
+persist.sys.ss.predict=false
+persist.sys.ss.hmm=true
+persist.sys.ss.sr.enable=true
+persist.sys.ss.enable=true
+persist.sys.ss.scroll=false
+persist.sys.ss.track=true
+persist.sys.ss.scene=true
+persist.sys.ss.habit=true
+persist.sys.ss.uhc.enable=true
+persist.sys.heartbeat.enable=1
+persist.sys.power.touch=1
+persist.vendor.sys.wcnreset=1
+persist.vendor.sys.wcnstate=0
+ro.vendor.wcn.gpschip=ge2
+ro.vendor.modem.gnss.diag=/dev/slog_gnss
+ro.vendor.wcn.hardware.product=sharkl3
+ro.vendor.wcn.hardware.etcpath=/vendor/etc
+ro.bt.bdaddr_path=/data/vendor/bluetooth/btmac.txt
+ro.vendor.modem.wcn.enable=1
+ro.vendor.modem.wcn.diag=/dev/slog_wcn0
+ro.vendor.modem.wcn.id=1
+ro.vendor.modem.wcn.count=1
+persist.odm.dirac.acs.controller=afm
+persist.odm.dirac.afm.mode=global
+persist.odm.dirac.acs.startAtBoot=3
+ro.odm.dirac.poolsize=2
+ro.odm.dirac.max_active.headset=5
+ro.odm.dirac.max_active.powersound=3
+ro.odm.dirac.config=136
+persist.odm.dirac.acs.ignore_error=1
+ro.odm.dirac.path=/vendor/etc/dirac
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+persist.sys.power.touch.touched=false
+ro.control_privapp_permissions=enforce
+persist.vendor.aprservice.enabled=0
+persist.sys.apr.enabled=0
+persist.sys.apr.timechanged=180
+persist.sys.apr.rlchanged=800
+persist.sys.apr.lifetime=0
+persist.sys.apr.reload=0
+persist.sys.apr.reportlevel=2
+persist.sys.apr.exceptionnode=0
+persist.sys.apr.intervaltime=1
+persist.sys.apr.testgroup=CSSLAB
+persist.sys.apr.autoupload=1
+persist.vendor.eng.jeita=1
+ro.vendor.modem.support=1
+persist.vendor.sys.broadcastradio.lazy=true
+ro.incremental.enable=module:/vendor/lib/modules/incrementalfs.ko
+ro.vendor.product.partitionpath=/dev/block/by-name/
+ro.frp.pst=/dev/block/by-name/persist
+ro.sys.sdcardfs=true
+persist.sys.sdcardfs=force_on
+ro.storage.flash_type=2
+external_storage.projid.enabled=1
+external_storage.casefold.enabled=1
+external_storage.sdcardfs.enabled=0
+persist.sys.vilte.socket=ap
+persist.vendor.radio.phone_count=2
+persist.radio.multisim.config=dsds
+ro.telephony.default_network=9
+persist.sys.callforwarding=2
+persist.vendor.sys.volte.enable=true
+persist.vendor.radio.imsua.setting=1
+ro.vendor.radio.fallback.enable=true
+service.wait_for_bootanim=1
+ro.apex.updatable=false
+persist.vendor.nhmonitor=on
+ro.rebootescrow.device=/dev/block/pmem0
+ro.oem.key1=pub

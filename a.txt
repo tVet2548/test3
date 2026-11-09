@@ -1,0 +1,919 @@
+======================================================================
+RMX3235 IMS APK DISCOVERY REPORT
+======================================================================
+Scan root: D:\Downloads ve\output
+APK discovered: 117
+Elapsed: 6.71 seconds
+
+======================================================================
+1. ALL APK PACKAGES
+======================================================================
+
+Package: com.google.android.calculator
+Version: 7.8 (271241277)
+Version code: 78000303
+Path: app\CalculatorGoogle\CalculatorGoogle.apk
+Size: 2,700,658 bytes
+
+Package: com.google.android.calendar
+Version: 2021.19.0-372815398-release
+Version code: 2016996610
+Path: app\CalendarGoogle\CalendarGoogle.apk
+Size: 24,452,029 bytes
+
+Package: com.android.chrome
+Version: 90.0.4430.210
+Version code: 443021030
+Path: app\Chrome\Chrome.apk
+Size: 24,526,614 bytes
+
+Package: com.google.android.modulemetadata
+Version: 2022-11-01 R
+Version code: 331148203
+Path: app\com.google.android.modulemetadata\com.google.android.modulemetadata.apk
+Size: 78,535 bytes
+
+Package: com.google.android.deskclock
+Version: 6.4 (361440548)
+Version code: 64001698
+Path: app\DeskClockGoogle\DeskClockGoogle.apk
+Size: 7,731,668 bytes
+
+Package: com.google.android.apps.photosgo
+Version: 1.7.8.373694029 release
+Version code: 6417966
+Path: app\GalleryGo\GalleryGo.apk
+Size: 13,650,291 bytes
+
+Package: com.google.android.gm
+Version: 2021.04.18.371442425.Release
+Version code: 62660475
+Path: app\Gmail2\Gmail2.apk
+Size: 62,530,432 bytes
+
+Package: com.google.android.gmsintegration
+Version: 11
+Version code: 30
+Path: app\GmsSampleIntegrationGo_2GB\GmsSampleIntegrationGo_2GB.apk
+Size: 2,681,903 bytes
+
+Package: com.google.android.contacts
+Version: 3.45.3.373830539
+Version code: 2603565
+Path: app\GoogleContacts\GoogleContacts.apk
+Size: 11,874,137 bytes
+
+Package: com.google.android.syncadapters.contacts
+Version: 11-6684105
+Version code: 30
+Path: app\GoogleContactsSyncAdapter\GoogleContactsSyncAdapter.apk
+Size: 1,481,322 bytes
+
+Package: com.google.android.gms.location.history
+Version: 1.1
+Version code: 2
+Path: app\GoogleLocationHistory\GoogleLocationHistory.apk
+Size: 45,780 bytes
+
+Package: com.google.android.tts
+Version: 25.2.1.361632836
+Version code: 210316593
+Path: app\GoogleTTS\GoogleTTS.apk
+Size: 30,899,430 bytes
+
+Package: com.google.android.keep
+Version: 5.21.101.03.30
+Version code: 211010330
+Path: app\Keep\Keep.apk
+Size: 19,690,381 bytes
+
+Package: com.google.android.inputmethod.latin
+Version: 10.5.03.367007960-lite_release-armeabi-v7a
+Version code: 54412501
+Path: app\LatinImeGoogleGo\LatinImeGoogleGo.apk
+Size: 28,988,027 bytes
+
+Package: com.google.android.apps.maps
+Version: 10.69.0
+Version code: 1065906104
+Path: app\Maps\Maps.apk
+Size: 80,742,645 bytes
+
+Package: com.google.android.apps.messaging
+Version: 9.2.030 (BaSingSe_RC01.phone.go_dynamic)
+Version code: 92030400
+Path: app\MessagesGo\MessagesGo.apk
+Size: 22,604,787 bytes
+
+Package: com.google.android.marvin.talkback
+Version: 9.1.0.358315219
+Version code: 60111894
+Path: app\talkback\talkback.apk
+Size: 25,794,771 bytes
+
+Package: com.google.android.trichromelibrary
+Version: 90.0.4430.210
+Version code: 443021030
+Path: app\TrichromeLibrary\TrichromeLibrary.apk
+Size: 65,295,727 bytes
+
+Package: com.google.android.webview
+Version: 90.0.4430.210
+Version code: 443021030
+Path: app\WebViewGoogle\WebViewGoogle.apk
+Size: 9,088,184 bytes
+
+Package: com.google.android.youtube
+Version: 16.19.37
+Version code: 1520954816
+Path: app\YouTube\YouTube.apk
+Size: 56,463,618 bytes
+
+Package: com.android.theme.color.black
+Version: 1.0
+Version code: 1
+Path: overlay\AccentColorBlack\AccentColorBlackOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.color.cinnamon
+Version: 1.0
+Version code: 1
+Path: overlay\AccentColorCinnamon\AccentColorCinnamonOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.color.green
+Version: 1.0
+Version code: 1
+Path: overlay\AccentColorGreen\AccentColorGreenOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.color.ocean
+Version: 1.0
+Version code: 1
+Path: overlay\AccentColorOcean\AccentColorOceanOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.color.orchid
+Version: 1.0
+Version code: 1
+Path: overlay\AccentColorOrchid\AccentColorOrchidOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.color.purple
+Version: 1.0
+Version code: 1
+Path: overlay\AccentColorPurple\AccentColorPurpleOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.color.space
+Version: 1.0
+Version code: 1
+Path: overlay\AccentColorSpace\AccentColorSpaceOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.dreams.overlay.basic
+Version: 1.0
+Version code: 1
+Path: overlay\BasicDreamsOverlay.apk
+Size: 78,617 bytes
+
+Package: com.android.internal.display.cutout.emulation.corner
+Version: 1.0
+Version code: 1
+Path: overlay\DisplayCutoutEmulationCorner\DisplayCutoutEmulationCornerOverlay.apk
+Size: 20,830 bytes
+
+Package: com.android.internal.display.cutout.emulation.double
+Version: 1.0
+Version code: 1
+Path: overlay\DisplayCutoutEmulationDouble\DisplayCutoutEmulationDoubleOverlay.apk
+Size: 20,830 bytes
+
+Package: com.android.internal.display.cutout.emulation.hole
+Version: 1.0
+Version code: 1
+Path: overlay\DisplayCutoutEmulationHole\DisplayCutoutEmulationHoleOverlay.apk
+Size: 20,830 bytes
+
+Package: com.android.internal.display.cutout.emulation.tall
+Version: 1.0
+Version code: 1
+Path: overlay\DisplayCutoutEmulationTall\DisplayCutoutEmulationTallOverlay.apk
+Size: 20,830 bytes
+
+Package: com.android.internal.display.cutout.emulation.waterfall
+Version: 1.0
+Version code: 1
+Path: overlay\DisplayCutoutEmulationWaterfall\DisplayCutoutEmulationWaterfallOverlay.apk
+Size: 20,830 bytes
+
+Package: com.android.overlay.camera2
+Version: 1.0
+Version code: 1
+Path: overlay\DreamCamera2Overlay.apk
+Size: 50,083 bytes
+
+Package: com.android.overlay.fmradio
+Version: 1.0
+Version code: 1
+Path: overlay\DreamFMRadioConfigOverlay.apk
+Size: 33,697 bytes
+
+Package: com.android.overlay.soundrecorder
+Version: 1.0
+Version code: 1
+Path: overlay\DreamSoundRecorderOverlay.apk
+Size: 33,700 bytes
+
+Package: com.android.overlay.emergency
+Version: 1.0
+Version code: 1
+Path: overlay\EmergencyInfoOverlay.apk
+Size: 66,454 bytes
+
+Package: com.android.theme.font.notoserifsource
+Version: 1.0
+Version code: 1
+Path: overlay\FontNotoSerifSource\FontNotoSerifSourceOverlay.apk
+Size: 8,542 bytes
+
+Package: android.auto_generated_rro_product__
+Version: 1.0
+Version code: 1
+Path: overlay\framework-res__auto_generated_rro_product.apk
+Size: 106,846 bytes
+
+Package: com.google.android.overlay.gmsconfig.assistantgo
+Version: 1.0
+Version code: 1
+Path: overlay\GmsConfigOverlayAssistantGo.apk
+Size: 8,542 bytes
+
+Package: com.google.android.overlay.gmsconfig.common
+Version: 1.0
+Version code: 1
+Path: overlay\GmsConfigOverlayCommon.apk
+Size: 20,911 bytes
+
+Package: com.google.android.overlay.gmsconfig.comms
+Version: 1.0
+Version code: 1
+Path: overlay\GmsConfigOverlayComms.apk
+Size: 8,542 bytes
+
+Package: com.google.android.overlay.gmsconfig.gallerygo
+Version: 1.0
+Version code: 1
+Path: overlay\GmsConfigOverlayGalleryGo.apk
+Size: 8,542 bytes
+
+Package: com.google.android.overlay.gmsconfig.go
+Version: 1.0
+Version code: 1
+Path: overlay\GmsConfigOverlayGo.apk
+Size: 8,542 bytes
+
+Package: com.google.android.overlay.modules.ext.services
+Version: 1.0
+Version code: 1
+Path: overlay\GoogleExtServicesConfigOverlay.apk
+Size: 8,542 bytes
+
+Package: com.google.android.overlay.modules.permissioncontroller.forframework
+Version: 1.0
+Version code: 1
+Path: overlay\GooglePermissionControllerFrameworkOverlay.apk
+Size: 8,542 bytes
+
+Package: com.google.android.overlay.modules.permissioncontroller
+Version: 1.0
+Version code: 1
+Path: overlay\GooglePermissionControllerOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.icon_pack.circular.android
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackCircularAndroid\IconPackCircularAndroidOverlay.apk
+Size: 84,530 bytes
+
+Package: com.android.theme.icon_pack.circular.launcher
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackCircularLauncher\IconPackCircularLauncherOverlay.apk
+Size: 26,301 bytes
+
+Package: com.android.theme.icon_pack.circular.settings
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackCircularSettings\IconPackCircularSettingsOverlay.apk
+Size: 84,563 bytes
+
+Package: com.android.theme.icon_pack.circular.systemui
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackCircularSystemUI\IconPackCircularSystemUIOverlay.apk
+Size: 66,135 bytes
+
+Package: com.android.theme.icon_pack.circular.themepicker
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackCircularThemePicker\IconPackCircularThemePickerOverlay.apk
+Size: 21,731 bytes
+
+Package: com.android.theme.icon_pack.filled.android
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackFilledAndroid\IconPackFilledAndroidOverlay.apk
+Size: 71,767 bytes
+
+Package: com.android.theme.icon_pack.filled.launcher
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackFilledLauncher\IconPackFilledLauncherOverlay.apk
+Size: 26,301 bytes
+
+Package: com.android.theme.icon_pack.filled.settings
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackFilledSettings\IconPackFilledSettingsOverlay.apk
+Size: 76,371 bytes
+
+Package: com.android.theme.icon_pack.filled.systemui
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackFilledSystemUI\IconPackFilledSystemUIOverlay.apk
+Size: 57,943 bytes
+
+Package: com.android.theme.icon_pack.filled.themepicker
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackFilledThemePicker\IconPackFilledThemePickerOverlay.apk
+Size: 17,635 bytes
+
+Package: com.android.theme.icon_pack.rounded.android
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackRoundedAndroid\IconPackRoundedAndroidOverlay.apk
+Size: 79,959 bytes
+
+Package: com.android.theme.icon_pack.rounded.launcher
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackRoundedLauncher\IconPackRoundedLauncherOverlay.apk
+Size: 26,301 bytes
+
+Package: com.android.theme.icon_pack.rounded.settings
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackRoundedSettings\IconPackRoundedSettingsOverlay.apk
+Size: 84,563 bytes
+
+Package: com.android.theme.icon_pack.rounded.systemui
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackRoundedSystemUI\IconPackRoundedSystemUIOverlay.apk
+Size: 66,135 bytes
+
+Package: com.android.theme.icon_pack.rounded.themepicker
+Version: 1.0
+Version code: 1
+Path: overlay\IconPackRoundedThemePicker\IconPackRoundedThemePickerOverlay.apk
+Size: 21,731 bytes
+
+Package: com.android.theme.icon.circle
+Version: 1.0
+Version code: 1
+Path: overlay\IconShapeCircle\IconShapeCircleOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.icon.pebble
+Version: 1.0
+Version code: 1
+Path: overlay\IconShapePebble\IconShapePebbleOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.icon.roundedrect
+Version: 1.0
+Version code: 1
+Path: overlay\IconShapeRoundedRect\IconShapeRoundedRectOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.icon.squircle
+Version: 1.0
+Version code: 1
+Path: overlay\IconShapeSquircle\IconShapeSquircleOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.icon.taperedrect
+Version: 1.0
+Version code: 1
+Path: overlay\IconShapeTaperedRect\IconShapeTaperedRectOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.icon.teardrop
+Version: 1.0
+Version code: 1
+Path: overlay\IconShapeTeardrop\IconShapeTeardropOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.theme.icon.vessel
+Version: 1.0
+Version code: 1
+Path: overlay\IconShapeVessel\IconShapeVesselOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.overlay.launcher3
+Version: 1.0
+Version code: 1
+Path: overlay\Launcher3Overlay.apk
+Size: 41,898 bytes
+
+Package: com.android.Launcher3.overlay.Launcher3QuickStepGoConfig
+Version: 1.0
+Version code: 1
+Path: overlay\Launcher3QuickStepGoConfigOverlay.apk
+Size: 8,542 bytes
+
+Package: com.google.android.overlay.modules.modulemetadata.forframework
+Version: 1.0
+Version code: 1
+Path: overlay\ModuleMetadataGoogleOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.internal.systemui.navbar.twobutton
+Version: 1.0
+Version code: 1
+Path: overlay\NavigationBarMode2Button\NavigationBarMode2ButtonOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.internal.systemui.navbar.threebutton
+Version: 1.0
+Version code: 1
+Path: overlay\NavigationBarMode3Button\NavigationBarMode3ButtonOverlay.apk
+Size: 8,542 bytes
+
+Package: com.android.internal.systemui.navbar.gestural
+Version: 1.0
+Version code: 1
+Path: overlay\NavigationBarModeGestural\NavigationBarModeGesturalOverlay.apk
+Size: 12,638 bytes
+
+Package: com.android.internal.systemui.navbar.gestural_extra_wide_back
+Version: 1.0
+Version code: 1
+Path: overlay\NavigationBarModeGesturalExtraWideBack\NavigationBarModeGesturalOverlayExtraWideBack.apk
+Size: 12,638 bytes
+
+Package: com.android.internal.systemui.navbar.gestural_narrow_back
+Version: 1.0
+Version code: 1
+Path: overlay\NavigationBarModeGesturalNarrowBack\NavigationBarModeGesturalOverlayNarrowBack.apk
+Size: 12,638 bytes
+
+Package: com.android.internal.systemui.navbar.gestural_wide_back
+Version: 1.0
+Version code: 1
+Path: overlay\NavigationBarModeGesturalWideBack\NavigationBarModeGesturalOverlayWideBack.apk
+Size: 12,638 bytes
+
+Package: com.android.overlay.music
+Version: 1.0
+Version code: 1
+Path: overlay\NewMusicOverlay.apk
+Size: 45,990 bytes
+
+Package: com.android.settings.auto_generated_rro_product__
+Version: 1.0
+Version code: 1
+Path: overlay\Settings__auto_generated_rro_product.apk
+Size: 8,542 bytes
+
+Package: com.android.overlay.settings
+Version: 1.0
+Version code: 1
+Path: overlay\SettingsConfigOverlay.apk
+Size: 66,371 bytes
+
+Package: com.android.providers.settings.auto_generated_rro_product__
+Version: 1.0
+Version code: 1
+Path: overlay\SettingsProvider__auto_generated_rro_product.apk
+Size: 8,542 bytes
+
+Package: com.android.overlay.setupwizard
+Version: 1.0
+Version code: 1
+Path: overlay\SetupWizardOverlay.apk
+Size: 57,694 bytes
+
+Package: com.android.overlay.stk
+Version: 1.0
+Version code: 1
+Path: overlay\StkConfigOverlay.apk
+Size: 37,808 bytes
+
+Package: com.android.systemui.auto_generated_rro_product__
+Version: 1.0
+Version code: 1
+Path: overlay\SystemUI__auto_generated_rro_product.apk
+Size: 8,542 bytes
+
+Package: com.android.server.telecom.auto_generated_rro_product__
+Version: 1.0
+Version code: 1
+Path: overlay\Telecom__auto_generated_rro_product.apk
+Size: 8,542 bytes
+
+Package: com.android.phone.auto_generated_rro_product__
+Version: 1.0
+Version code: 1
+Path: overlay\TeleService__auto_generated_rro_product.apk
+Size: 8,542 bytes
+
+Package: com.android.phone.injection
+Version: 11
+Version code: 30
+Path: overlay\TeleServiceOverlay.apk
+Size: 8,619 bytes
+
+Package: com.android.overlay.wallpaper
+Version: 1.0
+Version code: 1
+Path: overlay\WallpaperConfigOverlay.apk
+Size: 37,825 bytes
+
+Package: com.android.overlay.wallpaperconfig
+Version: 1.0
+Version code: 1
+Path: overlay\WallpaperOverlay.apk
+Size: 1,962,808 bytes
+
+Package: com.android.wifi.resources.overlay
+Version: 1.0
+Version code: 1
+Path: overlay\wifi_service-res_marlin2_rro.apk
+Size: 8,542 bytes
+
+Package: com.google.android.apps.assistant
+Version: 2.9.1.367582902.armeabi-v7a.release
+Version code: 8922
+Path: priv-app\AssistantGo\AssistantGo.apk
+Size: 8,061,717 bytes
+
+Package: com.google.android.ims
+Version: 59.0.373218582-carrierservices_V59P_RC01
+Version code: 30418752
+Path: priv-app\CarrierServices\CarrierServices.apk
+Size: 8,432,178 bytes
+
+Package: com.google.android.configupdater
+Version: 11-6684105
+Version code: 30
+Path: priv-app\ConfigUpdater\ConfigUpdater.apk
+Size: 5,850,965 bytes
+
+Package: com.google.android.apps.nbu.files
+Version: 1.0.363984897
+Version code: 373998
+Path: priv-app\FilesGoogle\FilesGoogle.apk
+Size: 14,819,523 bytes
+
+Package: com.google.android.gms.policy_sidecar_aps
+Version: 203615900061.334195813.334195813
+Version code: 203615900
+Path: priv-app\GmsCore\m\independent\AndroidPlatformServices.apk
+Size: 13,943,810 bytes
+
+Package: com.google.android.gms
+Version: 21.15.15 (170306-371058782)
+Version code: 211515069
+Path: priv-app\GmsCoreGo\GmsCoreGo.apk
+Size: 82,659,538 bytes
+
+Package: com.google.android.dialer
+Version: 65.0.370544174-go
+Version code: 7402861
+Path: priv-app\GoogleDialerGo\GoogleDialerGo.apk
+Size: 17,791,203 bytes
+
+Package: com.google.android.partnersetup
+Version: 100.327071041
+Version code: 1184
+Path: priv-app\GooglePartnerSetup\GooglePartnerSetup.apk
+Size: 553,609 bytes
+
+Package: com.google.android.apps.restore
+Version: 1.0.334154002
+Version code: 9568
+Path: priv-app\GoogleRestore\GoogleRestore.apk
+Size: 5,684,396 bytes
+
+Package: com.google.android.apps.searchlite
+Version: 3.28.372848444.release
+Version code: 469908
+Path: priv-app\GoogleSearchGo\GoogleSearchGo.apk
+Size: 11,941,024 bytes
+
+Package: com.google.android.apps.speechservices
+Version: 1.0.8.arm
+Version code: 2099
+Path: priv-app\GoogleSpeechServices\GoogleSpeechServices.apk
+Size: 9,126,788 bytes
+
+Package: com.android.vending
+Version: 25.4.20-21 [0] [PR] 373837845
+Version code: 82542010
+Path: priv-app\Phonesky\Phonesky.apk
+Size: 38,093,933 bytes
+
+Package: com.google.android.apps.setupwizard.searchselector
+Version: 1.30.337808798
+Version code: 247
+Path: priv-app\SearchSelector\SearchSelector.apk
+Size: 2,195,352 bytes
+
+Package: com.android.settings.intelligence
+Version: 11
+Version code: 30
+Path: priv-app\SettingsIntelligence\SettingsIntelligence.apk
+Size: 2,734,035 bytes
+
+Package: com.google.android.apps.wellbeing
+Version: 1.0.364375698
+Version code: 217257
+Path: priv-app\Wellbeing\Wellbeing.apk
+Size: 10,553,488 bytes
+
+Package: com.sprd.logmanager
+Version: 1.0
+Version code: 1
+Path: vendor_a\app\LogManager\LogManager.apk
+Size: 2,910,125 bytes
+
+Package: com.android.modemnotifier
+Version: 1.0
+Version code: 1
+Path: vendor_a\app\ModemNotifier\ModemNotifier.apk
+Size: 37,509 bytes
+
+Package: com.spreadtrum.proxy.nfwlocation
+Version: 11
+Version code: 30
+Path: vendor_a\app\ProxyNFwLocation\ProxyNFwLocation.apk
+Size: 1,406,763 bytes
+
+Package: android.auto_generated_rro_vendor__
+Version: 1.0
+Version code: 1
+Path: vendor_a\overlay\framework-res__auto_generated_rro_vendor.apk
+Size: 16,805 bytes
+
+Package: com.android.networkstack.inprocess.overlay
+Version: 11
+Version code: 30
+Path: vendor_a\overlay\NetworkStackOverlayGo.apk
+Size: 8,542 bytes
+
+Package: com.android.networkstack.overlay
+Version: 11
+Version code: 30
+Path: vendor_a\overlay\NetworkStackOverlayGsi.apk
+Size: 8,542 bytes
+
+Package: com.android.providers.settings.auto_generated_rro_vendor__
+Version: 1.0
+Version code: 1
+Path: vendor_a\overlay\SettingsProvider__auto_generated_rro_vendor.apk
+Size: 8,542 bytes
+
+Package: com.android.systemui.auto_generated_rro_vendor__
+Version: 1.0
+Version code: 1
+Path: vendor_a\overlay\SystemUI__auto_generated_rro_vendor.apk
+Size: 8,542 bytes
+
+Package: com.android.phone.auto_generated_rro_vendor__
+Version: 1.0
+Version code: 1
+Path: vendor_a\overlay\TeleService__auto_generated_rro_vendor.apk
+Size: 8,542 bytes
+
+Package: com.android.networkstack.tethering.inprocess.overlay
+Version: 11
+Version code: 30
+Path: vendor_a\overlay\TetheringConfigOverlayGo.apk
+Size: 8,542 bytes
+
+Package: com.android.networkstack.tethering.overlay
+Version: 11
+Version code: 30
+Path: vendor_a\overlay\TetheringConfigOverlayGsi.apk
+Size: 8,542 bytes
+
+======================================================================
+2. IMS / SPREADTRUM CANDIDATES
+======================================================================
+
+Package: com.google.android.ims
+Path: priv-app\CarrierServices\CarrierServices.apk
+
+Package: com.sprd.logmanager
+Path: vendor_a\app\LogManager\LogManager.apk
+
+Package: com.spreadtrum.proxy.nfwlocation
+Path: vendor_a\app\ProxyNFwLocation\ProxyNFwLocation.apk
+
+======================================================================
+3. IMS SERVICE MANIFEST MATCHES
+======================================================================
+
+APK: app\MessagesGo\MessagesGo.apk
+Package: com.google.android.apps.messaging
+Service class: com.google.android.ims.service.JibeService
+Permission: UNKNOWN
+BIND permission valid: False
+Actions: ['com.google.android.ims.service.KEEP_ALIVE']
+IMS actions: []
+Metadata: []
+
+APK: app\MessagesGo\MessagesGo.apk
+Package: com.google.android.apps.messaging
+Service class: com.google.android.ims.binding.SystemBindingService
+Permission: android.permission.BIND_CARRIER_MESSAGING_CLIENT_SERVICE
+BIND permission valid: False
+Actions: ['android.telephony.action.CARRIER_MESSAGING_CLIENT_SERVICE']
+IMS actions: []
+Metadata: []
+
+APK: app\MessagesGo\MessagesGo.apk
+Package: com.google.android.apps.messaging
+Service class: com.google.android.ims.metrics.PeriodicMetricsJobService
+Permission: android.permission.BIND_JOB_SERVICE
+BIND permission valid: False
+Actions: []
+IMS actions: []
+Metadata: []
+
+APK: priv-app\CarrierServices\CarrierServices.apk
+Package: com.google.android.ims
+Service class: com.google.android.ims.metrics.PeriodicMetricsJobService
+Permission: android.permission.BIND_JOB_SERVICE
+BIND permission valid: False
+Actions: []
+IMS actions: []
+Metadata: []
+
+APK: priv-app\CarrierServices\CarrierServices.apk
+Package: com.google.android.ims
+Service class: com.google.android.ims.services.CarrierServicesImsService
+Permission: android.permission.BIND_IMS_SERVICE
+BIND permission valid: True
+Actions: ['android.telephony.ims.ImsService']
+IMS actions: ['android.telephony.ims.ImsService']
+Metadata: [{'name': 'android.telephony.ims.RCS_FEATURE', 'value': 'True'}]
+
+APK: priv-app\CarrierServices\CarrierServices.apk
+Package: com.google.android.ims
+Service class: com.google.android.ims.services.MessagingService
+Permission: android.permission.BIND_CARRIER_SERVICES
+BIND permission valid: False
+Actions: ['android.service.carrier.CarrierMessagingService']
+IMS actions: []
+Metadata: []
+
+APK: priv-app\CarrierServices\CarrierServices.apk
+Package: com.google.android.ims
+Service class: com.google.android.ims.services.RcsService
+Permission: UNKNOWN
+BIND permission valid: False
+Actions: ['com.google.android.ims.START_RCS_ENGINE']
+IMS actions: []
+Metadata: []
+
+======================================================================
+4. DEX IMS STRING MATCHES
+======================================================================
+app\CalculatorGoogle\CalculatorGoogle.apk | com.google.android.calculator | classes.dex: ims
+app\CalendarGoogle\CalendarGoogle.apk | com.google.android.calendar | classes.dex: ims
+app\CalendarGoogle\CalendarGoogle.apk | com.google.android.calendar | classes2.dex: ims
+app\Chrome\Chrome.apk | com.android.chrome | classes.dex: ims
+app\DeskClockGoogle\DeskClockGoogle.apk | com.google.android.deskclock | classes.dex: ims
+app\GalleryGo\GalleryGo.apk | com.google.android.apps.photosgo | classes.dex: sprd
+app\GalleryGo\GalleryGo.apk | com.google.android.apps.photosgo | classes.dex: ims
+app\Gmail2\Gmail2.apk | com.google.android.gm | classes.dex: ims
+app\Gmail2\Gmail2.apk | com.google.android.gm | classes2.dex: ims
+app\Gmail2\Gmail2.apk | com.google.android.gm | classes3.dex: ims
+app\Gmail2\Gmail2.apk | com.google.android.gm | classes4.dex: ims
+app\GmsSampleIntegrationGo_2GB\GmsSampleIntegrationGo_2GB.apk | com.google.android.gmsintegration | classes.dex: ims
+app\GoogleContacts\GoogleContacts.apk | com.google.android.contacts | classes.dex: sprd
+app\GoogleContacts\GoogleContacts.apk | com.google.android.contacts | classes.dex: ims
+app\GoogleContactsSyncAdapter\GoogleContactsSyncAdapter.apk | com.google.android.syncadapters.contacts | classes.dex: ims
+app\GoogleTTS\GoogleTTS.apk | com.google.android.tts | classes.dex: ims
+app\Keep\Keep.apk | com.google.android.keep | classes.dex: ims
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | com.google.android.inputmethod.latin | classes.dex: ims
+app\Maps\Maps.apk | com.google.android.apps.maps | classes.dex: ims
+app\Maps\Maps.apk | com.google.android.apps.maps | classes2.dex: ims
+app\Maps\Maps.apk | com.google.android.apps.maps | classes3.dex: ims
+app\Maps\Maps.apk | com.google.android.apps.maps | classes4.dex: ims
+app\Maps\Maps.apk | com.google.android.apps.maps | classes5.dex: ims
+app\Maps\Maps.apk | com.google.android.apps.maps | classes6.dex: ims
+app\Maps\Maps.apk | com.google.android.apps.maps | classes7.dex: ims
+app\Maps\Maps.apk | com.google.android.apps.maps | classes8.dex: ims
+app\MessagesGo\MessagesGo.apk | com.google.android.apps.messaging | classes.dex: ims
+app\MessagesGo\MessagesGo.apk | com.google.android.apps.messaging | classes.dex: volte
+app\MessagesGo\MessagesGo.apk | com.google.android.apps.messaging | classes.dex: ImsService
+app\MessagesGo\MessagesGo.apk | com.google.android.apps.messaging | classes2.dex: ims
+app\MessagesGo\MessagesGo.apk | com.google.android.apps.messaging | classes2.dex: volte
+app\MessagesGo\MessagesGo.apk | com.google.android.apps.messaging | classes2.dex: ImsService
+app\MessagesGo\MessagesGo.apk | com.google.android.apps.messaging | classes2.dex: MMTEL
+app\MessagesGo\MessagesGo.apk | com.google.android.apps.messaging | classes3.dex: ims
+app\MessagesGo\MessagesGo.apk | com.google.android.apps.messaging | classes3.dex: MMTEL
+app\talkback\talkback.apk | com.google.android.marvin.talkback | classes.dex: ims
+app\WebViewGoogle\WebViewGoogle.apk | com.google.android.webview | classes.dex: ims
+app\YouTube\YouTube.apk | com.google.android.youtube | classes.dex: ims
+app\YouTube\YouTube.apk | com.google.android.youtube | classes2.dex: ims
+app\YouTube\YouTube.apk | com.google.android.youtube | classes3.dex: ims
+app\YouTube\YouTube.apk | com.google.android.youtube | classes4.dex: ims
+priv-app\AssistantGo\AssistantGo.apk | com.google.android.apps.assistant | classes.dex: ims
+priv-app\CarrierServices\CarrierServices.apk | com.google.android.ims | classes.dex: ims
+priv-app\CarrierServices\CarrierServices.apk | com.google.android.ims | classes.dex: volte
+priv-app\CarrierServices\CarrierServices.apk | com.google.android.ims | classes.dex: ImsService
+priv-app\CarrierServices\CarrierServices.apk | com.google.android.ims | classes.dex: MMTEL
+priv-app\ConfigUpdater\ConfigUpdater.apk | com.google.android.configupdater | classes.dex: ims
+priv-app\FilesGoogle\FilesGoogle.apk | com.google.android.apps.nbu.files | classes.dex: ims
+priv-app\GmsCore\m\independent\AndroidPlatformServices.apk | com.google.android.gms.policy_sidecar_aps | classes.dex: ims
+priv-app\GmsCoreGo\GmsCoreGo.apk | com.google.android.gms | classes.dex: ims
+priv-app\GmsCoreGo\GmsCoreGo.apk | com.google.android.gms | classes2.dex: ims
+priv-app\GmsCoreGo\GmsCoreGo.apk | com.google.android.gms | classes3.dex: ims
+priv-app\GmsCoreGo\GmsCoreGo.apk | com.google.android.gms | classes4.dex: ims
+priv-app\GmsCoreGo\GmsCoreGo.apk | com.google.android.gms | classes4.dex: volte
+priv-app\GmsCoreGo\GmsCoreGo.apk | com.google.android.gms | classes4.dex: MMTEL
+priv-app\GmsCoreGo\GmsCoreGo.apk | com.google.android.gms | classes5.dex: ims
+priv-app\GmsCoreGo\GmsCoreGo.apk | com.google.android.gms | classes6.dex: ims
+priv-app\GmsCoreGo\GmsCoreGo.apk | com.google.android.gms | classes6.dex: volte
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | com.google.android.dialer | classes.dex: ims
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | com.google.android.dialer | classes.dex: volte
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | com.google.android.dialer | classes.dex: MMTEL
+priv-app\GooglePartnerSetup\GooglePartnerSetup.apk | com.google.android.partnersetup | classes.dex: ims
+priv-app\GoogleRestore\GoogleRestore.apk | com.google.android.apps.restore | classes.dex: ims
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | com.google.android.apps.searchlite | classes.dex: ims
+priv-app\GoogleSpeechServices\GoogleSpeechServices.apk | com.google.android.apps.speechservices | classes.dex: ims
+priv-app\Phonesky\Phonesky.apk | com.android.vending | classes.dex: ims
+priv-app\Phonesky\Phonesky.apk | com.android.vending | classes2.dex: ims
+priv-app\Phonesky\Phonesky.apk | com.android.vending | classes3.dex: ims
+priv-app\Phonesky\Phonesky.apk | com.android.vending | classes4.dex: ims
+priv-app\SearchSelector\SearchSelector.apk | com.google.android.apps.setupwizard.searchselector | classes.dex: ims
+priv-app\SettingsIntelligence\SettingsIntelligence.apk | com.android.settings.intelligence | classes.dex: ims
+priv-app\Wellbeing\Wellbeing.apk | com.google.android.apps.wellbeing | classes.dex: ims
+vendor_a\app\LogManager\LogManager.apk | com.sprd.logmanager | classes.dex: sprd
+vendor_a\app\LogManager\LogManager.apk | com.sprd.logmanager | classes.dex: ims
+vendor_a\app\ProxyNFwLocation\ProxyNFwLocation.apk | com.spreadtrum.proxy.nfwlocation | classes.dex: com.spreadtrum
+vendor_a\app\ProxyNFwLocation\ProxyNFwLocation.apk | com.spreadtrum.proxy.nfwlocation | classes.dex: spreadtrum
+vendor_a\app\ProxyNFwLocation\ProxyNFwLocation.apk | com.spreadtrum.proxy.nfwlocation | classes.dex: ims
+
+======================================================================
+5. NATIVE LIBRARY MATCHES
+======================================================================
+app\GalleryGo\GalleryGo.apk | com.google.android.apps.photosgo | lib/armeabi-v7a/libnative.so: spreadtrum
+app\GalleryGo\GalleryGo.apk | com.google.android.apps.photosgo | lib/armeabi-v7a/libnative.so: ims
+app\Gmail2\Gmail2.apk | com.google.android.gm | lib/armeabi-v7a/libvideochat_jni.so: spreadtrum
+app\Gmail2\Gmail2.apk | com.google.android.gm | lib/armeabi-v7a/libvideochat_jni.so: ims
+app\GoogleTTS\GoogleTTS.apk | com.google.android.tts | lib/armeabi-v7a/libtts_android.so: spreadtrum
+app\GoogleTTS\GoogleTTS.apk | com.google.android.tts | lib/armeabi-v7a/libtts_android.so: ims
+app\Keep\Keep.apk | com.google.android.keep | lib/armeabi-v7a/libsketchology_native.so: ims
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | com.google.android.inputmethod.latin | lib/armeabi-v7a/libintegrated_shared_object.so: spreadtrum
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | com.google.android.inputmethod.latin | lib/armeabi-v7a/libintegrated_shared_object.so: ims
+app\Maps\Maps.apk | com.google.android.apps.maps | lib/armeabi-v7a/libgmm-jni.so: ims
+app\talkback\talkback.apk | com.google.android.marvin.talkback | lib/armeabi-v7a/libcronet.89.0.4385.0.so: ims
+app\TrichromeLibrary\TrichromeLibrary.apk | com.google.android.trichromelibrary | lib/armeabi-v7a/libmonochrome.so: ims
+app\YouTube\YouTube.apk | com.google.android.youtube | lib/armeabi-v7a/libcronet.92.0.4496.0.so: ims
+app\YouTube\YouTube.apk | com.google.android.youtube | lib/armeabi-v7a/libdrishti_jni_native.so: spreadtrum
+app\YouTube\YouTube.apk | com.google.android.youtube | lib/armeabi-v7a/libdrishti_jni_native.so: ims
+app\YouTube\YouTube.apk | com.google.android.youtube | lib/armeabi-v7a/libjsc.so: ims
+app\YouTube\YouTube.apk | com.google.android.youtube | lib/armeabi-v7a/libtensorflowlite_jni.so: spreadtrum
+app\YouTube\YouTube.apk | com.google.android.youtube | lib/armeabi-v7a/libtensorflowlite_jni.so: ims
+priv-app\FilesGoogle\FilesGoogle.apk | com.google.android.apps.nbu.files | lib/armeabi-v7a/libtensorflowlite_jni.so: spreadtrum
+priv-app\FilesGoogle\FilesGoogle.apk | com.google.android.apps.nbu.files | lib/armeabi-v7a/libtensorflowlite_jni.so: ims
+priv-app\GmsCoreGo\GmsCoreGo.apk | com.google.android.gms | lib/armeabi-v7a/libbrotli_native.so: ims
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | com.google.android.apps.searchlite | lib/armeabi-v7a/libbrotli.so: ims
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | com.google.android.apps.searchlite | lib/armeabi-v7a/libgoogle_endpointer_jni.so: spreadtrum
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | com.google.android.apps.searchlite | lib/armeabi-v7a/libgoogle_endpointer_jni.so: ims
+priv-app\Phonesky\Phonesky.apk | com.android.vending | lib/armeabi-v7a/libcronet.92.0.4503.0.so: ims
+priv-app\Phonesky\Phonesky.apk | com.android.vending | lib/armeabi-v7a/libtensorflowlite_jni.so: spreadtrum
+priv-app\Phonesky\Phonesky.apk | com.android.vending | lib/armeabi-v7a/libtensorflowlite_jni.so: ims
+
+======================================================================
+6. ERRORS
+======================================================================
+None.
+
+======================================================================
+NOTES
+======================================================================
+1. Scans this script's directory and all subdirectories.
+2. Parses Android binary XML without AAPT.
+3. Searches service declarations, permissions and IMS metadata.
+4. Searches classes.dex and APK native libraries.
+5. Does not scan APKs hidden inside unmounted partition images.
+6. A string match alone does not prove a working IMS implementation.

@@ -1,0 +1,114 @@
+------- PhoneGlobals -------
+  FeatureFlags:
+    reorganizeRoamingNotification=true
+    dismissNetworkSelectionNotificationOnSimDisable=true
+  mCurrentRoamingNotification=0
+  mDefaultDataSubId=1
+  isSmsCapable=true
+  mDataRoamingNotifLog:
+    2026-11-09T22:25:35.781927 - updateDataRoamingStatus dataAllowed=false, reasons=[SIM_NOT_READY, DATA_SETTINGS_NOT_READY, DATA_CONFIG_NOT_READY, NO_SUITABLE_DATA_PROFILE, NOT_IN_SERVICE, RADIO_POWER_OFF, DATA_SERVICE_NOT_READY], dataIsNowRoaming=false, RoamingNumeric=null, CallingReason=4
+    2026-11-09T22:25:47.068236 - updateDataRoamingStatus dataAllowed=false, reasons=[SIM_NOT_READY, DATA_CONFIG_NOT_READY, DATA_DISABLED, NO_SUITABLE_DATA_PROFILE], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=2
+    2026-11-09T22:25:51.708933 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=2
+    2026-11-09T22:25:53.360498 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=3
+    2026-11-09T22:25:54.762426 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=3
+    2026-11-09T22:25:54.933941 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=3
+    2026-11-09T22:26:25.900947 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=2
+    2026-11-09T22:26:25.999861 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=3
+    2026-11-09T22:26:26.499252 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=2
+    2026-11-09T22:30:39.801122 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=3
+    2026-11-09T23:32:05.460722 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED, NOT_IN_SERVICE], dataIsNowRoaming=false, RoamingNumeric=, CallingReason=3
+    2026-11-09T23:32:09.254810 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED, NOT_IN_SERVICE], dataIsNowRoaming=false, RoamingNumeric=, CallingReason=3
+    2026-11-09T23:32:09.284299 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED, NOT_IN_SERVICE], dataIsNowRoaming=false, RoamingNumeric=, CallingReason=3
+    2026-11-09T23:32:10.827907 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=3
+    2026-11-09T23:32:30.049862 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=3
+    2026-11-09T23:32:30.124315 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=3
+    2026-11-09T23:44:55.204295 - updateDataRoamingStatus dataAllowed=false, reasons=[DATA_DISABLED], dataIsNowRoaming=false, RoamingNumeric=45204, CallingReason=3
+  ImsResolver:
+    ImsResolver:
+      Configurations:
+        Device:
+          EMERGENCY_MMTEL -> com.spreadtrum.ims
+          MMTEL -> com.spreadtrum.ims
+          RCS -> 
+        Carrier: 
+          slot=0, feature=EMERGENCY_MMTEL: 
+            none
+          slot=0, feature=MMTEL: 
+            none
+          slot=0, feature=RCS: 
+            none
+          slot=1, feature=EMERGENCY_MMTEL: 
+            none
+          slot=1, feature=MMTEL: 
+            none
+          slot=1, feature=RCS: 
+            none
+      Cached ImsServices:
+      Active controllers:
+      Connection Repository Log:
+        2026-11-09T22:25:35.421261 - [-1] FeatureConnectionRepository - created
+        2026-11-09T22:25:35.636228 - [0] registerForConnectionUpdates, type= MMTEL, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@3d69b9e}
+        2026-11-09T22:25:35.645492 - [0] registerForConnectionUpdates, type= RCS, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@ffe967f}
+        2026-11-09T22:25:35.647758 - [1] registerForConnectionUpdates, type= MMTEL, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@67af64c}
+        2026-11-09T22:25:35.649992 - [1] registerForConnectionUpdates, type= RCS, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@42e3695}
+        2026-11-09T22:25:35.680482 - [0] registerForConnectionUpdates, type= MMTEL, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@31fc2e4}
+        2026-11-09T22:25:35.687068 - [0] registerForConnectionUpdates, type= RCS, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@23fa34d}
+        2026-11-09T22:25:35.690321 - [1] registerForConnectionUpdates, type= MMTEL, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@3682e02}
+        2026-11-09T22:25:35.692791 - [1] registerForConnectionUpdates, type= RCS, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@8ec6313}
+        2026-11-09T22:25:35.910750 - [0] registerForConnectionUpdates, type= MMTEL, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@764dc57}
+        2026-11-09T22:25:38.423761 - [1] registerForConnectionUpdates, type= MMTEL, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@b44f3a4}
+        2026-11-09T22:25:40.906618 - [0] registerForConnectionUpdates, type= MMTEL, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@bf835ca}
+        2026-11-09T22:25:40.913402 - [1] registerForConnectionUpdates, type= MMTEL, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@d4ea33b}
+        2026-11-09T22:25:41.054470 - [0] registerForConnectionUpdates, type= MMTEL, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@86b1404}
+        2026-11-09T22:25:43.971460 - [0] registerForConnectionUpdates, type= RCS, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@1eed851}
+        2026-11-09T22:25:44.040988 - [-1] registerForConnectionUpdates, type= MMTEL, conn= ListenerContainer{cb=com.android.ims.FeatureConnector$1@b4b9524}
+      Event Log:
+        2026-11-09T22:25:35.432117 - Initializing
+        2026-11-09T22:25:47.042213 - updateBoundServices - carrier package changed:  ->  on slot 1, hasConfigChanged=false
+        2026-11-09T22:25:47.042744 - updateBoundServices - carrier package changed:  ->  on slot 1, hasConfigChanged=true
+        2026-11-09T22:25:47.043172 - updateBoundServices - carrier package changed:  ->  on slot 1, hasConfigChanged=true
+        2026-11-09T22:25:51.684183 - updateBoundServices - carrier package changed:  ->  on slot 0, hasConfigChanged=false
+        2026-11-09T22:25:51.684603 - updateBoundServices - carrier package changed:  ->  on slot 0, hasConfigChanged=true
+        2026-11-09T22:25:51.684939 - updateBoundServices - carrier package changed:  ->  on slot 0, hasConfigChanged=true
+        2026-11-09T22:26:25.217303 - handling BOOT_COMPLETE
+        2026-11-09T22:26:25.217528 - boot complete - reeval
+        2026-11-09T22:26:25.886555 - updateBoundServices - carrier package changed:  ->  on slot 0, hasConfigChanged=false
+        2026-11-09T22:26:25.886825 - updateBoundServices - carrier package changed:  ->  on slot 0, hasConfigChanged=true
+        2026-11-09T22:26:25.886991 - updateBoundServices - carrier package changed:  ->  on slot 0, hasConfigChanged=true
+        2026-11-09T22:26:26.426493 - updateBoundServices - carrier package changed:  ->  on slot 1, hasConfigChanged=false
+        2026-11-09T22:26:26.426898 - updateBoundServices - carrier package changed:  ->  on slot 1, hasConfigChanged=true
+        2026-11-09T22:26:26.427177 - updateBoundServices - carrier package changed:  ->  on slot 1, hasConfigChanged=true
+  RcsService:
+  RcsFeatureControllers:
+  ImsStateCallbackController:
+    CallbackWrappers:
+      CallbackWrapper={subId=1, feature=MMTEL, reason=IMS_SERVICE_DISCONNECTED, pkg=com.android.settings}
+    MmTelFeatureListeners:
+      Listener={slotId=0, subId=1, state=UNAVAILABLE, reason=IMS_SERVICE_DISCONNECTED, hasConfig=true}
+      Listener={slotId=1, subId=-1, state=UNAVAILABLE, reason=IMS_SERVICE_DISCONNECTED, hasConfig=true}
+    RcsFeatureListeners:
+      Listener={slotId=0, subId=1, state=UNAVAILABLE, reason=NO_IMS_SERVICE_CONFIGURED, hasConfig=false, isReady=false, hasFeatures=false}
+      Listener={slotId=1, subId=-1, state=UNAVAILABLE, reason=IMS_SERVICE_DISCONNECTED, hasConfig=true, isReady=false, hasFeatures=false}
+    Most recent logs:
+      2026-11-09T22:25:35.625817 - ImsStateCallbackController created
+      2026-11-09T22:25:35.631421 - updateFeatures: oldSlots=0, newNumSlots=2
+      2026-11-09T22:25:43.931047 - [0, MMTEL] setSubId changed subId=1
+      2026-11-09T22:25:43.931650 - [0, RCS] setSubId changed subId=1
+      2026-11-09T22:25:47.040320 - onReceive ACTION_CARRIER_CONFIG_CHANGED invalid subId
+      2026-11-09T22:25:51.685807 - [0, RCS] notifyConfigChanged false
+      2026-11-09T22:25:51.686223 - [0, RCS] connectionUnavailable reason=IMS_UNSUPPORTED
+      2026-11-09T22:26:26.431340 - onReceive ACTION_CARRIER_CONFIG_CHANGED invalid subId
+  DomainSelectionResolver:
+    Resolver:
+      Event Log:
+        2026-11-09T22:25:33.388065 - DomainSelectionResolver created: componentName=[]
+    Controller:
+      no active controller
+mShownNotificationReasons={}
+------- End PhoneGlobals -------
+******* OmtpVvm *******
+======= Configs =======
+  VisualVoicemailPackageName:com.android.dialer
+  VisualVoicemailSmsFilterSettings(1):null
+======== Logs =========
+  2026-11-09T22:26:25.288282 - VvmSimStateTracker: android.intent.action.BOOT_COMPLETED

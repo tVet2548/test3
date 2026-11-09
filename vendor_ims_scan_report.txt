@@ -1,0 +1,270 @@
+=================================================================
+ANDROID IMS / VOLTE VENDOR SCAN REPORT
+=================================================================
+Scan root: D:\Downloads ve\output\vendor_a
+Directories scanned: 89
+Files scanned: 1320
+Total bytes scanned: 320,273,932
+Elapsed time: 30.10 seconds
+
+=================================================================
+1. FILE / DIRECTORY NAME MATCHES
+=================================================================
+[directory] etc\audio\sku_sprd | keyword: sprd
+[file] bin\hw\android.hardware.bluetooth@1.1-service.unisoc | keyword: unisoc
+[file] bin\hw\android.hardware.keymaster@4.1-unisoc.service | keyword: unisoc
+[file] bin\hw\vendor.sprd.hardware.aprd@1.0-service | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.boot@1.1-service | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.broadcastradio@2.0-service-lazy | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.combined@1.0-service | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.connmgr@1.0-service | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.cplog_connmgr@1.0-service | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.enhance@1.0-service | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.face@1.0-service | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.gnss@2.1-service | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.log@1.0-service | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.network@1.0-service | keyword: sprd
+[file] bin\hw\vendor.sprd.hardware.wcn@1.0-service | keyword: sprd
+[file] bin\hw\vendor.unisoc.hardware.power-service | keyword: unisoc
+[file] bin\sprdstorageproxyd | keyword: sprd
+[file] etc\NotoSansCJK-Regular-sprd.ttc | keyword: sprd
+[file] etc\audio\sku_sprd\a2dp_audio_policy_configuration.xml | keyword: sprd
+[file] etc\audio\sku_sprd\audio_policy_configuration.xml | keyword: sprd
+[file] etc\audio\sku_sprd\audio_policy_volumes.xml | keyword: sprd
+[file] etc\audio\sku_sprd\bluetooth_audio_policy_configuration.xml | keyword: sprd
+[file] etc\audio\sku_sprd\default_volume_tables.xml | keyword: sprd
+[file] etc\audio\sku_sprd\primary_audio_policy_configuration.xml | keyword: sprd
+[file] etc\audio\sku_sprd\r_submix_audio_policy_configuration.xml | keyword: sprd
+[file] etc\audio\sku_sprd\usb_audio_policy_configuration.xml | keyword: sprd
+[file] etc\imsUserAgent.xml | keyword: ims
+[file] etc\init\android.hardware.bluetooth@1.1-service.unisoc.rc | keyword: unisoc
+[file] etc\init\android.hardware.keymaster@4.1-unisoc.service.rc | keyword: unisoc
+[file] etc\init\init.sprd_flash.rc | keyword: sprd
+[file] etc\init\unisoc.rild.rc | keyword: unisoc
+[file] etc\init\vendor.sprd.hardware.aprd@1.0-service.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.boot@1.1-service.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.broadcastradio@2.0-service-lazy.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.combined@1.0-service.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.connmgr@1.0-service.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.cplog_connmgr@1.0-service.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.enhance@1.0-service.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.face@1.0-service.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.gnss@2.1-service.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.log@1.0-service.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.network@1.0-service.rc | keyword: sprd
+[file] etc\init\vendor.sprd.hardware.wcn@1.0-service.rc | keyword: sprd
+[file] etc\permissions\android.hardware.telephony.ims.xml | keyword: ims
+[file] etc\sprd_hdr_tuning.param | keyword: sprd
+[file] etc\sprd_performance_config.xml | keyword: sprd
+[file] etc\vintf\manifest\android.hardware.keymaster@4.1-unisoc.service.xml | keyword: unisoc
+[file] etc\vintf\manifest\vendor.sprd.hardware.boot@1.1.xml | keyword: sprd
+[file] etc\vintf\manifest\vendor.sprd.hardware.gnss@2.1-service.xml | keyword: sprd
+[file] firmware\hx_criteria_for_UNISOC.csv | keyword: unisoc
+[file] lib\android.hardware.camera.provider@2.4-external-sprd.so | keyword: sprd
+[file] lib\android.hardware.camera.provider@2.4-legacy-sprd.so | keyword: sprd
+[file] lib\camera.device@3.2-impl-sprd.so | keyword: sprd
+[file] lib\camera.device@3.3-impl-sprd.so | keyword: sprd
+[file] lib\camera.device@3.4-external-impl-sprd.so | keyword: sprd
+[file] lib\camera.device@3.4-impl-sprd.so | keyword: sprd
+[file] lib\camera.device@3.5-external-impl-sprd.so | keyword: sprd
+[file] lib\camera.device@3.5-impl-sprd.so | keyword: sprd
+[file] lib\camera.device@3.6-external-impl-sprd.so | keyword: sprd
+[file] lib\hw\android.hardware.bluetooth.audio@2.0-impl-unisoc.so | keyword: unisoc
+[file] lib\hw\android.hardware.camera.provider@2.4-impl-sprd.so | keyword: sprd
+[file] lib\hw\unisoc.bootctrl.so | keyword: unisoc
+[file] lib\hw\vendor.sprd.hardware.aprd@1.0-impl.so | keyword: sprd
+[file] lib\hw\vendor.sprd.hardware.boot@1.1-impl.so | keyword: sprd
+[file] lib\hw\vendor.sprd.hardware.connmgr@1.0-impl.so | keyword: sprd
+[file] lib\hw\vendor.sprd.hardware.cplog_connmgr@1.0-impl.so | keyword: sprd
+[file] lib\hw\vendor.sprd.hardware.enhance@1.0-impl.so | keyword: sprd
+[file] lib\hw\vendor.sprd.hardware.gnss@2.1-impl.so | keyword: sprd
+[file] lib\hw\vendor.sprd.hardware.log@1.0-impl.so | keyword: sprd
+[file] lib\hw\vendor.sprd.hardware.network@1.0-impl.so | keyword: sprd
+[file] lib\hw\vendor.sprd.hardware.thermal@2.0-impl.so | keyword: sprd
+[file] lib\hw\vendor.sprd.hardware.wcn@1.0-impl.so | keyword: sprd
+[file] lib\libSprdImageFilter.so | keyword: sprd
+[file] lib\libSprdMfnrAdapter.so | keyword: sprd
+[file] lib\libSprdPdAlgo.so | keyword: sprd
+[file] lib\libbluetooth_audio_session_unisoc.so | keyword: unisoc
+[file] lib\libbt-sprd_suite.so | keyword: sprd
+[file] lib\libjpeg_hw_sprd.so | keyword: sprd
+[file] lib\libjpegenc_sw_sprd.so | keyword: sprd
+[file] lib\libomx_av1dec_sw_sprd.so | keyword: sprd
+[file] lib\libomx_avcdec_hw_sprd.so | keyword: sprd
+[file] lib\libomx_avcdec_sw_sprd.so | keyword: sprd
+[file] lib\libomx_avcdec_vt_sprd.so | keyword: sprd
+[file] lib\libomx_avcenc_hw_sprd.so | keyword: sprd
+[file] lib\libomx_hevcdec_hw_sprd.so | keyword: sprd
+[file] lib\libomx_hevcenc_hw_sprd.so | keyword: sprd
+[file] lib\libomx_m4vh263dec_hw_sprd.so | keyword: sprd
+[file] lib\libomx_m4vh263dec_sw_sprd.so | keyword: sprd
+[file] lib\libomx_m4vh263enc_sw_sprd.so | keyword: sprd
+[file] lib\libomx_mp3dec_sprd.so | keyword: sprd
+[file] lib\libomx_mp3enc_sprd.so | keyword: sprd
+[file] lib\libomx_vp9dec_hw_sprd.so | keyword: sprd
+[file] lib\libomx_vpxdec_hw_sprd.so | keyword: sprd
+[file] lib\libomx_vpxenc_hw_sprd.so | keyword: sprd
+[file] lib\libsprd_omx_core.so | keyword: sprd
+[file] lib\libsprd_portrait_cap.so | keyword: sprd
+[file] lib\libsprdaic.so | keyword: sprd
+[file] lib\libsprdaudiohal@5.0.so | keyword: sprd
+[file] lib\libsprdaudiohal@6.0.so | keyword: sprd
+[file] lib\libsprdaudiohal_deathhandlerv6.so | keyword: sprd
+[file] lib\libsprdaudiohalv6.so | keyword: sprd
+[file] lib\libsprdbokeh.so | keyword: sprd
+[file] lib\libsprdcamalgassist.so | keyword: sprd
+[file] lib\libsprdcnr.so | keyword: sprd
+[file] lib\libsprdcnradapter.so | keyword: sprd
+[file] lib\libsprddepth.so | keyword: sprd
+[file] lib\libsprddrepro.so | keyword: sprd
+[file] lib\libsprddreproadapter.so | keyword: sprd
+[file] lib\libsprdfa.so | keyword: sprd
+[file] lib\libsprdfacebeauty.so | keyword: sprd
+[file] lib\libsprdfacebeauty_vdsp.so | keyword: sprd
+[file] lib\libsprdfaceid.so | keyword: sprd
+[file] lib\libsprdfarcnn.so | keyword: sprd
+[file] lib\libsprdfd.so | keyword: sprd
+[file] lib\libsprdfd_hw.so | keyword: sprd
+[file] lib\libsprdhdr.so | keyword: sprd
+[file] lib\libsprdhdradapter.so | keyword: sprd
+[file] lib\libsprdlsc.so | keyword: sprd
+[file] lib\libsprdscenedetect.so | keyword: sprd
+[file] lib\libstagefright_sprd_av1dec.so | keyword: sprd
+[file] lib\libstagefright_sprd_deintl.so | keyword: sprd
+[file] lib\libstagefright_sprd_h264dec.so | keyword: sprd
+[file] lib\libstagefright_sprd_h264enc.so | keyword: sprd
+[file] lib\libstagefright_sprd_h265dec.so | keyword: sprd
+[file] lib\libstagefright_sprd_h265enc.so | keyword: sprd
+[file] lib\libstagefright_sprd_mp3dec.so | keyword: sprd
+[file] lib\libstagefright_sprd_mp3enc.so | keyword: sprd
+[file] lib\libstagefright_sprd_mpeg4dec.so | keyword: sprd
+[file] lib\libstagefright_sprd_mpeg4enc.so | keyword: sprd
+[file] lib\libstagefright_sprd_vp9dec.so | keyword: sprd
+[file] lib\libstagefright_sprd_vpxdec.so | keyword: sprd
+[file] lib\npidevice\libbt-sprd_eut.so | keyword: sprd
+[file] lib\npidevice\libfm-sprd_eut.so | keyword: sprd
+[file] lib\power.sprd.so | keyword: sprd
+[file] lib\soundfx\libsprdvoiceprocessing.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.aprd@1.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.boot@1.1.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.connmgr@1.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.cplog_connmgr@1.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.enhance@1.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.face@1.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.gnss@2.1.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.log@1.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.network@1.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.radio.ims@1.0.so | keyword: ims
+[file] lib\vendor.sprd.hardware.radio.ims@1.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.radio@1.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.thermal@1.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.thermal@2.0.so | keyword: sprd
+[file] lib\vendor.sprd.hardware.wcn@1.0.so | keyword: sprd
+[file] lib\vendor.unisoc.hardware.power-V1-ndk_platform.so | keyword: unisoc
+
+=================================================================
+2. BINARY / CONFIG CONTENT MATCHES
+=================================================================
+app\LogManager\LogManager.apk | volte | byte offset 1261180
+app\ProxyNFwLocation\ProxyNFwLocation.apk | com.spreadtrum | byte offset 816167
+bin\factorytest | persist.vendor.radio | byte offset 31367
+bin\hw\urild | persist.vendor.radio | byte offset 3909
+build.prop | persist.vendor.radio | byte offset 7007
+build.prop | persist.vendor.sys.volte | byte offset 7137
+build.prop | ro.telephony.default_network | byte offset 7077
+build.prop | volte | byte offset 7156
+etc\appPowerSaveConfig.xml | com.spreadtrum | byte offset 95
+etc\permissions\android.hardware.telephony.ims.xml | ImsService | byte offset 717
+etc\permissions\android.hardware.telephony.ims.xml | imsservice | byte offset 717
+etc\selinux\plat_pub_versioned.cil | ims_bridged | byte offset 3599
+etc\selinux\precompiled_sepolicy | ims_bridged | byte offset 65512
+etc\selinux\precompiled_sepolicy | imsbr | byte offset 81066
+etc\selinux\precompiled_sepolicy | imsbrd | byte offset 81066
+etc\selinux\precompiled_sepolicy | volte | byte offset 48983
+etc\selinux\vendor_file_contexts | volte | byte offset 26539
+etc\selinux\vendor_hwservice_contexts | IImsRadio | byte offset 196
+etc\selinux\vendor_hwservice_contexts | vendor.sprd.hardware.radio.ims | byte offset 164
+etc\selinux\vendor_property_contexts | persist.vendor.radio | byte offset 354
+etc\selinux\vendor_seapp_contexts | com.spreadtrum | byte offset 1729
+etc\selinux\vendor_sepolicy.cil | ims_bridged | byte offset 22511
+etc\selinux\vendor_sepolicy.cil | imsbr | byte offset 11575
+etc\selinux\vendor_sepolicy.cil | imsbrd | byte offset 11575
+etc\selinux\vendor_sepolicy.cil | volte | byte offset 11540
+etc\vintf\manifest\manifest_dualsim.xml | IImsRadio | byte offset 1194
+etc\vintf\manifest\manifest_dualsim.xml | vendor.sprd.hardware.radio.ims | byte offset 1047
+lib\hw\vendor.sprd.hardware.aprd@1.0-impl.so | persist.vendor.radio | byte offset 37425
+lib\libgnssmgt.so | com.spreadtrum | byte offset 42512
+lib\libimpl-ril.so | persist.vendor.radio | byte offset 32544
+lib\libimpl-ril.so | persist.vendor.sys.volte | byte offset 43516
+lib\libimpl-ril.so | volte | byte offset 18845
+lib\libril-private.so | persist.vendor.radio | byte offset 43586
+lib\librilcore.so | IImsRadio | byte offset 111375
+lib\librilcore.so | IImsRadioIndication | byte offset 111408
+lib\librilcore.so | IImsRadioResponse | byte offset 111375
+lib\librilcore.so | persist.vendor.radio | byte offset 156595
+lib\librilcore.so | vendor.sprd.hardware.radio.ims | byte offset 117472
+lib\librilcore.so | vendor.sprd.hardware.radio.ims@1.0 | byte offset 117472
+lib\librilcore.so | volte | byte offset 37283
+lib\libsensorlistcfg.so | com.spreadtrum | byte offset 1092
+lib\npidevice\libFactoryRadioTest.so | persist.vendor.radio | byte offset 3545
+lib\vendor.sprd.hardware.radio.ims@1.0.so | IImsRadio | byte offset 22791
+lib\vendor.sprd.hardware.radio.ims@1.0.so | IImsRadioIndication | byte offset 48101
+lib\vendor.sprd.hardware.radio.ims@1.0.so | IImsRadioResponse | byte offset 48068
+lib\vendor.sprd.hardware.radio.ims@1.0.so | vendor.sprd.hardware.radio.ims | byte offset 136082
+lib\vendor.sprd.hardware.radio.ims@1.0.so | vendor.sprd.hardware.radio.ims@1.0 | byte offset 136082
+lib\vendor.sprd.hardware.radio.ims@1.0.so | volte | byte offset 31559
+lib\vendor.sprd.hardware.radio@1.0.so | volte | byte offset 58591
+odm\etc\vintf\manifest_SINGLESIM.xml | IImsRadio | byte offset 1677
+odm\etc\vintf\manifest_SINGLESIM.xml | vendor.sprd.hardware.radio.ims | byte offset 1530
+overlay\TeleService__auto_generated_rro_vendor.apk | MMTEL | byte offset 642
+overlay\TeleService__auto_generated_rro_vendor.apk | com.spreadtrum | byte offset 110
+overlay\TeleService__auto_generated_rro_vendor.apk | com.spreadtrum.ims | byte offset 110
+overlay\TeleService__auto_generated_rro_vendor.apk | spreadtrum.ims | byte offset 114
+overlay\framework-res__auto_generated_rro_vendor.apk | com.spreadtrum | byte offset 347
+overlay\framework-res__auto_generated_rro_vendor.apk | com.spreadtrum.ims | byte offset 347
+overlay\framework-res__auto_generated_rro_vendor.apk | spreadtrum.ims | byte offset 351
+overlay\framework-res__auto_generated_rro_vendor.apk | volte | byte offset 1655
+
+=================================================================
+3. APK / JAR / ZIP / APEX CONTENT MATCHES
+=================================================================
+app\LogManager\LogManager.apk | ARCHIVE_NAME:volte | res/xml/pref_uecap_volte.xml
+app\LogManager\LogManager.apk | ARCHIVE_NAME:volte | res/xml/pref_volte_ipsec_setting.xml
+app\LogManager\LogManager.apk | ARCHIVE_NAME:volte | res/xml/pref_volte_setting.xml
+app\LogManager\LogManager.apk | ARCHIVE_NAME:volte | res/xml/pref_volte_setting_evs.xml
+app\LogManager\LogManager.apk | volte | member META-INF/CERT.SF, offset 63922
+app\LogManager\LogManager.apk | volte | member META-INF/MANIFEST.MF, offset 63828
+app\LogManager\LogManager.apk | volte | member res/xml/pref_gcf_activity.xml, offset 242
+app\LogManager\LogManager.apk | volte | member res/xml/pref_telephonytab.xml, offset 1523
+app\LogManager\LogManager.apk | volte | member res/xml/pref_volte_ipsec_setting.xml, offset 405
+app\LogManager\LogManager.apk | volte | member res/xml/pref_volte_setting.xml, offset 633
+app\LogManager\LogManager.apk | volte | member res/xml/pref_volte_setting_evs.xml, offset 823
+app\LogManager\LogManager.apk | volte | member resources.arsc, offset 47580
+app\ProxyNFwLocation\ProxyNFwLocation.apk | com.spreadtrum | member AndroidManifest.xml, offset 1200
+app\ProxyNFwLocation\ProxyNFwLocation.apk | com.spreadtrum | member classes.dex, offset 816115
+app\ProxyNFwLocation\ProxyNFwLocation.apk | com.spreadtrum | member resources.arsc, offset 108000
+overlay\TeleService__auto_generated_rro_vendor.apk | MMTEL | member resources.arsc, offset 586
+overlay\TeleService__auto_generated_rro_vendor.apk | com.spreadtrum | member resources.arsc, offset 54
+overlay\TeleService__auto_generated_rro_vendor.apk | com.spreadtrum.ims | member resources.arsc, offset 54
+overlay\TeleService__auto_generated_rro_vendor.apk | spreadtrum.ims | member resources.arsc, offset 58
+overlay\framework-res__auto_generated_rro_vendor.apk | com.spreadtrum | member resources.arsc, offset 291
+overlay\framework-res__auto_generated_rro_vendor.apk | com.spreadtrum.ims | member resources.arsc, offset 291
+overlay\framework-res__auto_generated_rro_vendor.apk | spreadtrum.ims | member resources.arsc, offset 295
+overlay\framework-res__auto_generated_rro_vendor.apk | volte | member resources.arsc, offset 1599
+
+=================================================================
+4. READ / ARCHIVE ERRORS
+=================================================================
+No errors.
+
+=================================================================
+NOTES
+=================================================================
+1. The scanner uses the folder containing this script as root.
+2. All subdirectories are scanned recursively.
+3. All ordinary files are scanned as binary streams.
+4. APK/JAR/ZIP/APEX members are additionally decompressed and scanned.
+5. ASCII, UTF-16LE and UTF-16BE markers are supported.
+6. Nested partition images are scanned as raw bytes, not mounted.
+7. A missing match does not prove a component is absent.
+8. Generic matches such as 'volte' or 'MMTEL' need manual verification.

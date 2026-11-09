@@ -1,0 +1,460 @@
+ANDROID IMS / VOLTE SCAN REPORT
+Scan root: D:\Downloads ve\output
+Directories visited: 178
+Files scanned: 375
+Total file bytes scanned (including archive raw bytes): 2,463,958,297
+Elapsed: 113.1 seconds
+
+=== FILE / FOLDER NAME MATCHES ===
+[file] etc\permissions\unisoc.camerax.extensions.xml | unisoc
+[file] framework\unisoc.camerax.extensions.jar | unisoc
+
+=== CONTENT MATCHES (ALL FILE TYPES, INCLUDING IMG/SO)
+app\CalculatorGoogle\oat\arm\CalculatorGoogle.vdex | RCS | byte offset 873244
+app\CalendarGoogle\oat\arm\CalendarGoogle.vdex | RCS | byte offset 2943940
+app\Chrome\oat\arm\Chrome.vdex | RCS | byte offset 4123454
+app\DeskClockGoogle\oat\arm\DeskClockGoogle.vdex | RCS | byte offset 1136842
+app\GalleryGo\oat\arm\GalleryGo.vdex | RCS | byte offset 1258672
+app\Gmail2\oat\arm\Gmail2.odex | RCS | byte offset 96544
+app\Gmail2\oat\arm\Gmail2.vdex | RCS | byte offset 59976
+app\GoogleContactsSyncAdapter\oat\arm\GoogleContactsSyncAdapter.vdex | RCS | byte offset 1554789
+app\GoogleContacts\oat\arm\GoogleContacts.vdex | ImsManager | byte offset 6441012
+app\GoogleContacts\oat\arm\GoogleContacts.vdex | RCS | byte offset 128108
+app\GoogleTTS\oat\arm\GoogleTTS.vdex | RCS | byte offset 2343524
+app\LatinImeGoogleGo\oat\arm\LatinImeGoogleGo.vdex | RCS | byte offset 4340170
+app\Maps\oat\arm\Maps.odex | RCS | byte offset 328119
+app\Maps\oat\arm\Maps.vdex | RCS | byte offset 5563858
+app\MessagesGo\oat\arm\MessagesGo.vdex | ImsConfig | byte offset 8790116
+app\MessagesGo\oat\arm\MessagesGo.vdex | ImsManager | byte offset 15580528
+app\MessagesGo\oat\arm\MessagesGo.vdex | ImsService | byte offset 8791627
+app\MessagesGo\oat\arm\MessagesGo.vdex | MMTEL | byte offset 15218838
+app\MessagesGo\oat\arm\MessagesGo.vdex | RCS | byte offset 3914232
+app\MessagesGo\oat\arm\MessagesGo.vdex | imsservice | byte offset 8791627
+app\MessagesGo\oat\arm\MessagesGo.vdex | volte | byte offset 9378506
+app\WebViewGoogle\oat\arm\WebViewGoogle.vdex | RCS | byte offset 2850881
+app\YouTube\oat\arm\YouTube.vdex | RCS | byte offset 9710934
+app\talkback\oat\arm\talkback.vdex | RCS | byte offset 1243788
+etc\apns-conf.xml | RCS | byte offset 540533
+etc\apns-conf.xml | volte | byte offset 1972
+etc\vintf\compatibility_matrix.xml | IImsRadio | byte offset 4024
+etc\vintf\compatibility_matrix.xml | vendor.sprd.hardware.radio.ims | byte offset 3917
+find.py | EMERGENCY_MMTEL | byte offset 1147
+find.py | IImsRadio | byte offset 1037
+find.py | ImsService | byte offset 1096
+find.py | MMTEL | byte offset 1114
+find.py | MmTelFeature | byte offset 1114
+find.py | com.spreadtrum | byte offset 872
+find.py | com.spreadtrum.ims | byte offset 872
+find.py | ims.radio | byte offset 1335
+find.py | ims_bridged | byte offset 920
+find.py | imsbr | byte offset 759
+find.py | imsservice | byte offset 1096
+find.py | libimsbrd.so | byte offset 939
+find.py | persist.dbg.volte | byte offset 1228
+find.py | persist.vendor.ims | byte offset 1202
+find.py | persist.vendor.sys.volte | byte offset 1170
+find.py | sprd.ims | byte offset 1297
+find.py | spreadtrum.ims | byte offset 876
+find.py | vendor.sprd.hardware.radio.ims | byte offset 999
+find.py | vendor.sprd.hardware.radio.ims@1.0 | byte offset 1054
+find.py | vendor.unisoc.hardware.radio.ims | byte offset 959
+find.py | volte | byte offset 50
+media\audio\alarms\childhood.ogg | RCS | byte offset 105507
+media\audio\alarms\commute.ogg | RCS | byte offset 335737
+media\audio\alarms\dreams.ogg | RCS | byte offset 95106
+media\audio\alarms\fairviews.ogg | RCS | byte offset 162241
+media\audio\alarms\memories.ogg | RCS | byte offset 348233
+media\audio\alarms\night.ogg | RCS | byte offset 28365
+media\audio\ringtones\ringtone_004.ogg | RCS | byte offset 95106
+media\audio\ringtones\ringtone_016.ogg | RCS | byte offset 348233
+media\audio\ringtones\ringtone_017.ogg | RCS | byte offset 28365
+media\audio\ringtones\ringtone_022.ogg | RCS | byte offset 105507
+media\audio\ringtones\ringtone_024.ogg | RCS | byte offset 335737
+media\audio\ringtones\ringtone_026.ogg | RCS | byte offset 162241
+media\pictures\Pura.jpg | RCS | byte offset 17594
+priv-app\AssistantGo\oat\arm\AssistantGo.vdex | RCS | byte offset 2617770
+priv-app\FilesGoogle\oat\arm\FilesGoogle.vdex | RCS | byte offset 3964532
+priv-app\GoogleSearchGo\oat\arm\GoogleSearchGo.vdex | RCS | byte offset 2423032
+priv-app\GoogleSpeechServices\oat\arm\GoogleSpeechServices.vdex | RCS | byte offset 167900
+priv-app\Phonesky\oat\arm\Phonesky.vdex | RCS | byte offset 5609130
+priv-app\Wellbeing\oat\arm\Wellbeing.vdex | RCS | byte offset 5087576
+product_a.img | IImsRadio | byte offset 694505400
+product_a.img | ImsConfig | byte offset 488984676
+product_a.img | ImsManager | byte offset 228862004
+product_a.img | ImsService | byte offset 488986187
+product_a.img | MMTEL | byte offset 390208535
+product_a.img | RCS | byte offset 139044
+product_a.img | imsservice | byte offset 488986187
+product_a.img | vendor.sprd.hardware.radio.ims | byte offset 694505293
+product_a.img | volte | byte offset 15690783
+usr\share\ime\google\d3_lms\en_us_d3_20180105.dict | RCS | byte offset 178318
+vendor_a.img | IImsRadio | byte offset 68518084
+vendor_a.img | ImsService | byte offset 62726861
+vendor_a.img | MMTEL | byte offset 307499650
+vendor_a.img | RCS | byte offset 3881430
+vendor_a.img | com.spreadtrum | byte offset 4031527
+vendor_a.img | com.spreadtrum.ims | byte offset 307499118
+vendor_a.img | ims_bridged | byte offset 66969103
+vendor_a.img | imsbr | byte offset 67943594
+vendor_a.img | imsservice | byte offset 62726861
+vendor_a.img | persist.vendor.sys.volte | byte offset 28007393
+vendor_a.img | ro.telephony.default_network | byte offset 28007333
+vendor_a.img | spreadtrum.ims | byte offset 307499122
+vendor_a.img | vendor.sprd.hardware.radio.ims | byte offset 68518052
+vendor_a.img | vendor.sprd.hardware.radio.ims@1.0 | byte offset 196516576
+vendor_a.img | volte | byte offset 1429116
+
+=== APK / JAR / ZIP / APEX MEMBER MATCHES
+app\CalculatorGoogle\CalculatorGoogle.apk | RCS | member META-INF/MANIFEST.MF @ offset 45397
+app\CalculatorGoogle\CalculatorGoogle.apk | RCS | member classes.dex @ offset 977790
+app\CalculatorGoogle\CalculatorGoogle.apk | RCS | member res/Vq.png @ offset 296
+app\CalculatorGoogle\CalculatorGoogle.apk | RCS | member resources.arsc @ offset 241487
+app\CalculatorGoogle\CalculatorGoogle.apk | RCS | raw archive: byte offset 73508
+app\CalendarGoogle\CalendarGoogle.apk | RCS | member META-INF/CERT.SF @ offset 112189
+app\CalendarGoogle\CalendarGoogle.apk | RCS | member META-INF/MANIFEST.MF @ offset 54928
+app\CalendarGoogle\CalendarGoogle.apk | RCS | member classes.dex @ offset 6113600
+app\CalendarGoogle\CalendarGoogle.apk | RCS | member classes2.dex @ offset 1621306
+app\CalendarGoogle\CalendarGoogle.apk | RCS | member res/Hq.webp @ offset 83495
+app\CalendarGoogle\CalendarGoogle.apk | RCS | member res/Vq.png @ offset 296
+app\CalendarGoogle\CalendarGoogle.apk | RCS | member resources.arsc @ offset 4566757
+app\CalendarGoogle\CalendarGoogle.apk | RCS | raw archive: byte offset 1818671
+app\CalendarGoogle\CalendarGoogle.apk | volte | member resources.arsc @ offset 4151495
+app\CalendarGoogle\CalendarGoogle.apk | volte | raw archive: byte offset 10202143
+app\Chrome\Chrome.apk | RCS | member META-INF/CERT.SF @ offset 155038
+app\Chrome\Chrome.apk | RCS | member META-INF/MANIFEST.MF @ offset 147292
+app\Chrome\Chrome.apk | RCS | member assets/locales#lang_hu/hu.pak @ offset 86787
+app\Chrome\Chrome.apk | RCS | member assets/resources.pak @ offset 130146
+app\Chrome\Chrome.apk | RCS | member classes.dex @ offset 1543630
+app\Chrome\Chrome.apk | RCS | member classes2.dex @ offset 333314
+app\Chrome\Chrome.apk | RCS | member classes6.dex @ offset 475602
+app\Chrome\Chrome.apk | RCS | member classes9.dex @ offset 1200642
+app\Chrome\Chrome.apk | RCS | member lib/armeabi-v7a/libchromium_android_linker.so @ offset 3593
+app\Chrome\Chrome.apk | RCS | member lib/armeabi-v7a/libelements.so @ offset 155164
+app\Chrome\Chrome.apk | RCS | member resources.arsc @ offset 3896361
+app\Chrome\Chrome.apk | RCS | raw archive: byte offset 2320023
+app\Chrome\Chrome.apk | volte | member assets/locales#lang_it/it.pak @ offset 32041
+app\Chrome\Chrome.apk | volte | member assets/locales#lang_pt/pt-BR.pak @ offset 13515
+app\Chrome\Chrome.apk | volte | member assets/locales#lang_pt/pt-PT.pak @ offset 59934
+app\Chrome\Chrome.apk | volte | member resources.arsc @ offset 3537962
+app\Chrome\Chrome.apk | volte | raw archive: byte offset 2441037
+app\DeskClockGoogle\DeskClockGoogle.apk | RCS | member META-INF/CERT.SF @ offset 48984
+app\DeskClockGoogle\DeskClockGoogle.apk | RCS | member META-INF/MANIFEST.MF @ offset 10420
+app\DeskClockGoogle\DeskClockGoogle.apk | RCS | member classes.dex @ offset 965000
+app\DeskClockGoogle\DeskClockGoogle.apk | RCS | member res/Vq.png @ offset 296
+app\DeskClockGoogle\DeskClockGoogle.apk | RCS | raw archive: byte offset 457192
+app\DeskClockGoogle\DeskClockGoogle.apk | volte | member resources.arsc @ offset 356822
+app\DeskClockGoogle\DeskClockGoogle.apk | volte | raw archive: byte offset 964510
+app\GalleryGo\GalleryGo.apk | RCS | member assets/facenet_mobile_v1_8bits_tflite @ offset 4535
+app\GalleryGo\GalleryGo.apk | RCS | member assets/mobile_ica_8bit_v2.tflite @ offset 391093
+app\GalleryGo\GalleryGo.apk | RCS | member classes.dex @ offset 4887844
+app\GalleryGo\GalleryGo.apk | RCS | member lib/armeabi-v7a/libnative.so @ offset 296468
+app\GalleryGo\GalleryGo.apk | RCS | member resources.arsc @ offset 1057676
+app\GalleryGo\GalleryGo.apk | RCS | raw archive: byte offset 776417
+app\Gmail2\Gmail2.apk | RCS | member META-INF/BNDLTOOL.SF @ offset 151511
+app\Gmail2\Gmail2.apk | RCS | member META-INF/MANIFEST.MF @ offset 69975
+app\Gmail2\Gmail2.apk | RCS | member classes.dex @ offset 1530192
+app\Gmail2\Gmail2.apk | RCS | member classes2.dex @ offset 5049096
+app\Gmail2\Gmail2.apk | RCS | member classes3.dex @ offset 2018799
+app\Gmail2\Gmail2.apk | RCS | member classes4.dex @ offset 7376873
+app\Gmail2\Gmail2.apk | RCS | member lib/armeabi-v7a/libvideochat_jni.so @ offset 28324
+app\Gmail2\Gmail2.apk | RCS | member res/0hz.webp @ offset 17470
+app\Gmail2\Gmail2.apk | RCS | member res/MH-.png @ offset 12252
+app\Gmail2\Gmail2.apk | RCS | member res/VqP.png @ offset 296
+app\Gmail2\Gmail2.apk | RCS | member resources.arsc @ offset 15799448
+app\Gmail2\Gmail2.apk | RCS | raw archive: byte offset 878902
+app\Gmail2\Gmail2.apk | volte | member res/mR6.w @ offset 370978
+app\Gmail2\Gmail2.apk | volte | member resources.arsc @ offset 14188917
+app\Gmail2\Gmail2.apk | volte | raw archive: byte offset 45300493
+app\GmsSampleIntegrationGo_2GB\GmsSampleIntegrationGo_2GB.apk | RCS | member META-INF/CERT.SF @ offset 28104
+app\GmsSampleIntegrationGo_2GB\GmsSampleIntegrationGo_2GB.apk | RCS | member classes.dex @ offset 618040
+app\GmsSampleIntegrationGo_2GB\GmsSampleIntegrationGo_2GB.apk | RCS | raw archive: byte offset 618092
+app\GoogleContactsSyncAdapter\GoogleContactsSyncAdapter.apk | RCS | member META-INF/CERT.SF @ offset 18340
+app\GoogleContactsSyncAdapter\GoogleContactsSyncAdapter.apk | RCS | member classes.dex @ offset 1457991
+app\GoogleContactsSyncAdapter\GoogleContactsSyncAdapter.apk | RCS | raw archive: byte offset 855622
+app\GoogleContacts\GoogleContacts.apk | ImsManager | member classes.dex @ offset 6614997
+app\GoogleContacts\GoogleContacts.apk | RCS | member META-INF/CERT.SF @ offset 89314
+app\GoogleContacts\GoogleContacts.apk | RCS | member META-INF/MANIFEST.MF @ offset 46471
+app\GoogleContacts\GoogleContacts.apk | RCS | member classes.dex @ offset 2785208
+app\GoogleContacts\GoogleContacts.apk | RCS | member res/aE.txt @ offset 3521
+app\GoogleContacts\GoogleContacts.apk | RCS | member resources.arsc @ offset 3135108
+app\GoogleContacts\GoogleContacts.apk | RCS | raw archive: byte offset 4160152
+app\GoogleContacts\GoogleContacts.apk | volte | member resources.arsc @ offset 2810733
+app\GoogleContacts\GoogleContacts.apk | volte | raw archive: byte offset 3835777
+app\GoogleTTS\GoogleTTS.apk | RCS | member assets/voices/en-us/en-us-x-multi-r29.zvoice @ offset 3578930
+app\GoogleTTS\GoogleTTS.apk | RCS | member classes.dex @ offset 2427126
+app\GoogleTTS\GoogleTTS.apk | RCS | member lib/armeabi-v7a/libtts_android.so @ offset 644999
+app\GoogleTTS\GoogleTTS.apk | RCS | member res/Vq.png @ offset 296
+app\GoogleTTS\GoogleTTS.apk | RCS | raw archive: byte offset 3579810
+app\Keep\Keep.apk | RCS | member META-INF/CERT.SF @ offset 111213
+app\Keep\Keep.apk | RCS | member META-INF/MANIFEST.MF @ offset 84346
+app\Keep\Keep.apk | RCS | member classes.dex @ offset 1745828
+app\Keep\Keep.apk | RCS | member res/0k.png @ offset 968
+app\Keep\Keep.apk | RCS | member res/4d1.png @ offset 95720
+app\Keep\Keep.apk | RCS | member res/Vq.png @ offset 296
+app\Keep\Keep.apk | RCS | member res/hb.apk @ offset 1386118
+app\Keep\Keep.apk | RCS | raw archive: byte offset 1747056
+app\Keep\Keep.apk | volte | member resources.arsc @ offset 1901411
+app\Keep\Keep.apk | volte | raw archive: byte offset 14765923
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | RCS | member META-INF/CERT.SF @ offset 65072
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | RCS | member META-INF/MANIFEST.MF @ offset 78484
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | RCS | member classes.dex @ offset 4941934
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | RCS | member lib/armeabi-v7a/libintegrated_shared_object.so @ offset 742700
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | RCS | member res/GV-.json @ offset 49919
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | RCS | member res/Riw.svg @ offset 29023
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | RCS | member res/VqP.png @ offset 296
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | RCS | member res/an-.jpg @ offset 10328
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | RCS | member resources.arsc @ offset 4918660
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | RCS | raw archive: byte offset 824620
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | volte | member resources.arsc @ offset 4526777
+app\LatinImeGoogleGo\LatinImeGoogleGo.apk | volte | raw archive: byte offset 13018985
+app\Maps\Maps.apk | MMTEL | member resources.arsc @ offset 24815815
+app\Maps\Maps.apk | MMTEL | raw archive: byte offset 64531479
+app\Maps\Maps.apk | RCS | member META-INF/BNDLTOOL.SF @ offset 149619
+app\Maps\Maps.apk | RCS | member META-INF/MANIFEST.MF @ offset 64994
+app\Maps\Maps.apk | RCS | member classes.dex @ offset 2121681
+app\Maps\Maps.apk | RCS | member classes3.dex @ offset 2201196
+app\Maps\Maps.apk | RCS | member classes4.dex @ offset 678122
+app\Maps\Maps.apk | RCS | member classes5.dex @ offset 1962632
+app\Maps\Maps.apk | RCS | member classes6.dex @ offset 3462208
+app\Maps\Maps.apk | RCS | member classes7.dex @ offset 2996994
+app\Maps\Maps.apk | RCS | member lib/armeabi-v7a/libgmm-jni.so @ offset 37989
+app\Maps\Maps.apk | RCS | member res/VqP.png @ offset 296
+app\Maps\Maps.apk | RCS | member res/ghQ.png @ offset 17132
+app\Maps\Maps.apk | RCS | member resources.arsc @ offset 485752
+app\Maps\Maps.apk | RCS | raw archive: byte offset 878778
+app\Maps\Maps.apk | volte | member resources.arsc @ offset 2375801
+app\Maps\Maps.apk | volte | raw archive: byte offset 42091465
+app\MessagesGo\MessagesGo.apk | ImsConfig | member classes.dex @ offset 6435983
+app\MessagesGo\MessagesGo.apk | ImsConfig | member classes2.dex @ offset 7724513
+app\MessagesGo\MessagesGo.apk | ImsManager | member classes2.dex @ offset 7953349
+app\MessagesGo\MessagesGo.apk | ImsService | member classes.dex @ offset 6437494
+app\MessagesGo\MessagesGo.apk | ImsService | member classes2.dex @ offset 7541373
+app\MessagesGo\MessagesGo.apk | MMTEL | member classes2.dex @ offset 7559505
+app\MessagesGo\MessagesGo.apk | MMTEL | member classes3.dex @ offset 1798743
+app\MessagesGo\MessagesGo.apk | RCS | member AndroidManifest.xml @ offset 3934
+app\MessagesGo\MessagesGo.apk | RCS | member assets/google_tos_animation.json @ offset 60
+app\MessagesGo\MessagesGo.apk | RCS | member assets/google_tos_animation_dark.json @ offset 60
+app\MessagesGo\MessagesGo.apk | RCS | member assets/rcs_consent_animation.json @ offset 59
+app\MessagesGo\MessagesGo.apk | RCS | member assets/rcs_consent_image.json @ offset 57
+app\MessagesGo\MessagesGo.apk | RCS | member assets/rcs_consent_image_dark.json @ offset 59
+app\MessagesGo\MessagesGo.apk | RCS | member classes.dex @ offset 5987127
+app\MessagesGo\MessagesGo.apk | RCS | member classes2.dex @ offset 2561524
+app\MessagesGo\MessagesGo.apk | RCS | member classes3.dex @ offset 1767616
+app\MessagesGo\MessagesGo.apk | RCS | member res/-g.xml @ offset 162
+app\MessagesGo\MessagesGo.apk | RCS | member res/0E.xml @ offset 176
+app\MessagesGo\MessagesGo.apk | RCS | member res/0e.xml @ offset 162
+app\MessagesGo\MessagesGo.apk | RCS | member res/4U.binarypb @ offset 20
+app\MessagesGo\MessagesGo.apk | RCS | member res/HX.xml @ offset 233
+app\MessagesGo\MessagesGo.apk | RCS | member res/ZX1.xml @ offset 596
+app\MessagesGo\MessagesGo.apk | RCS | member res/a2.xml @ offset 481
+app\MessagesGo\MessagesGo.apk | RCS | member res/eg.xml @ offset 334
+app\MessagesGo\MessagesGo.apk | RCS | member res/fV @ offset 2750988
+app\MessagesGo\MessagesGo.apk | RCS | member res/ie.xml @ offset 552
+app\MessagesGo\MessagesGo.apk | RCS | member res/mZ1.xml @ offset 162
+app\MessagesGo\MessagesGo.apk | RCS | member res/rI.xml @ offset 361
+app\MessagesGo\MessagesGo.apk | RCS | member resources.arsc @ offset 462097
+app\MessagesGo\MessagesGo.apk | RCS | raw archive: byte offset 135725
+app\MessagesGo\MessagesGo.apk | imsservice | member classes.dex @ offset 6437494
+app\MessagesGo\MessagesGo.apk | imsservice | member classes2.dex @ offset 7541373
+app\MessagesGo\MessagesGo.apk | volte | member classes.dex @ offset 7024373
+app\MessagesGo\MessagesGo.apk | volte | member classes2.dex @ offset 7545982
+app\MessagesGo\MessagesGo.apk | volte | member resources.arsc @ offset 5096508
+app\MessagesGo\MessagesGo.apk | volte | raw archive: byte offset 16165080
+app\TrichromeLibrary\TrichromeLibrary.apk | RCS | member assets/icudtl.dat @ offset 136025
+app\TrichromeLibrary\TrichromeLibrary.apk | RCS | member lib/armeabi-v7a/libmonochrome.so @ offset 78427
+app\TrichromeLibrary\TrichromeLibrary.apk | RCS | raw archive: byte offset 136085
+app\WebViewGoogle\WebViewGoogle.apk | MMTEL | member resources.arsc @ offset 2642395
+app\WebViewGoogle\WebViewGoogle.apk | MMTEL | raw archive: byte offset 4963375
+app\WebViewGoogle\WebViewGoogle.apk | RCS | member META-INF/CERT.SF @ offset 3514
+app\WebViewGoogle\WebViewGoogle.apk | RCS | member META-INF/MANIFEST.MF @ offset 225449
+app\WebViewGoogle\WebViewGoogle.apk | RCS | member assets/resources.pak @ offset 99080
+app\WebViewGoogle\WebViewGoogle.apk | RCS | member assets/stored-locales/hu.pak @ offset 8212
+app\WebViewGoogle\WebViewGoogle.apk | RCS | member classes.dex @ offset 2929778
+app\WebViewGoogle\WebViewGoogle.apk | RCS | raw archive: byte offset 126036
+app\WebViewGoogle\WebViewGoogle.apk | volte | member assets/stored-locales/it.pak @ offset 2840
+app\WebViewGoogle\WebViewGoogle.apk | volte | member resources.arsc @ offset 2194394
+app\WebViewGoogle\WebViewGoogle.apk | volte | raw archive: byte offset 959148
+app\YouTube\YouTube.apk | RCS | member META-INF/BNDLTOOL.SF @ offset 141677
+app\YouTube\YouTube.apk | RCS | member META-INF/MANIFEST.MF @ offset 171465
+app\YouTube\YouTube.apk | RCS | member classes.dex @ offset 6706788
+app\YouTube\YouTube.apk | RCS | member classes2.dex @ offset 3749788
+app\YouTube\YouTube.apk | RCS | member classes3.dex @ offset 6222698
+app\YouTube\YouTube.apk | RCS | member classes4.dex @ offset 1519418
+app\YouTube\YouTube.apk | RCS | member lib/armeabi-v7a/libdrishti_jni_native.so @ offset 18028
+app\YouTube\YouTube.apk | RCS | member lib/armeabi-v7a/libelements.so @ offset 269670
+app\YouTube\YouTube.apk | RCS | member lib/armeabi-v7a/libgvr.so @ offset 32064
+app\YouTube\YouTube.apk | RCS | member lib/armeabi-v7a/libgvr_audio.so @ offset 97468
+app\YouTube\YouTube.apk | RCS | member lib/armeabi-v7a/libjingle_peerconnection_so.so @ offset 396905
+app\YouTube\YouTube.apk | RCS | member lib/armeabi-v7a/libjsc.so @ offset 96080
+app\YouTube\YouTube.apk | RCS | member res/7F5.webp @ offset 3024
+app\YouTube\YouTube.apk | RCS | member resources.arsc @ offset 901213
+app\YouTube\YouTube.apk | RCS | raw archive: byte offset 4954256
+app\YouTube\YouTube.apk | volte | member resources.arsc @ offset 775230
+app\YouTube\YouTube.apk | volte | raw archive: byte offset 43592190
+app\talkback\talkback.apk | RCS | member META-INF/CERT.SF @ offset 6757
+app\talkback\talkback.apk | RCS | member META-INF/MANIFEST.MF @ offset 130502
+app\talkback\talkback.apk | RCS | member classes.dex @ offset 3867323
+app\talkback\talkback.apk | RCS | member res/Vq.png @ offset 296
+app\talkback\talkback.apk | RCS | member res/cv.png @ offset 603
+app\talkback\talkback.apk | RCS | member resources.arsc @ offset 9032704
+app\talkback\talkback.apk | RCS | raw archive: byte offset 3581412
+app\talkback\talkback.apk | volte | member resources.arsc @ offset 4565249
+app\talkback\talkback.apk | volte | raw archive: byte offset 9556453
+overlay\IconShapeTeardrop\IconShapeTeardropOverlay.apk | RCS | member META-INF/CERT.SF @ offset 316
+overlay\IconShapeVessel\IconShapeVesselOverlay.apk | RCS | member META-INF/CERT.SF @ offset 294
+overlay\WallpaperOverlay.apk | RCS | member res/drawable-nodpi-v4/inlay_wallpaper25.png @ offset 241705
+overlay\WallpaperOverlay.apk | RCS | member res/drawable-nodpi-v4/inlay_wallpaper4.jpg @ offset 152460
+overlay\WallpaperOverlay.apk | RCS | raw archive: byte offset 241789
+priv-app\AssistantGo\AssistantGo.apk | RCS | member classes.dex @ offset 4346566
+priv-app\AssistantGo\AssistantGo.apk | RCS | member classes2.dex @ offset 61020
+priv-app\AssistantGo\AssistantGo.apk | RCS | member lib/armeabi-v7a/libelements.so @ offset 216882
+priv-app\AssistantGo\AssistantGo.apk | RCS | member lib/armeabi-v7a/libogg_opus_encoder.so @ offset 62985
+priv-app\AssistantGo\AssistantGo.apk | RCS | member res/Vq.png @ offset 296
+priv-app\AssistantGo\AssistantGo.apk | RCS | raw archive: byte offset 199388
+priv-app\CarrierServices\CarrierServices.apk | ImsConfig | member classes.dex @ offset 5260629
+priv-app\CarrierServices\CarrierServices.apk | ImsConfig | raw archive: byte offset 5261405
+priv-app\CarrierServices\CarrierServices.apk | ImsService | member AndroidManifest.xml @ offset 5342
+priv-app\CarrierServices\CarrierServices.apk | ImsService | member classes.dex @ offset 5164648
+priv-app\CarrierServices\CarrierServices.apk | ImsService | raw archive: byte offset 5165424
+priv-app\CarrierServices\CarrierServices.apk | MMTEL | member classes.dex @ offset 5609073
+priv-app\CarrierServices\CarrierServices.apk | MMTEL | raw archive: byte offset 5609849
+priv-app\CarrierServices\CarrierServices.apk | RCS | member AndroidManifest.xml @ offset 2362
+priv-app\CarrierServices\CarrierServices.apk | RCS | member META-INF/CERT.RSA @ offset 210
+priv-app\CarrierServices\CarrierServices.apk | RCS | member META-INF/MANIFEST.MF @ offset 44910
+priv-app\CarrierServices\CarrierServices.apk | RCS | member META-INF/services/com.google.protobuf.GeneratedExtensionRegistryLoader @ offset 122
+priv-app\CarrierServices\CarrierServices.apk | RCS | member classes.dex @ offset 5158531
+priv-app\CarrierServices\CarrierServices.apk | RCS | member res/0E.xml @ offset 176
+priv-app\CarrierServices\CarrierServices.apk | RCS | member res/Vq.png @ offset 296
+priv-app\CarrierServices\CarrierServices.apk | RCS | member res/fV @ offset 313680
+priv-app\CarrierServices\CarrierServices.apk | RCS | member resources.arsc @ offset 122428
+priv-app\CarrierServices\CarrierServices.apk | RCS | raw archive: byte offset 234
+priv-app\CarrierServices\CarrierServices.apk | imsservice | member AndroidManifest.xml @ offset 5342
+priv-app\CarrierServices\CarrierServices.apk | imsservice | member classes.dex @ offset 5164648
+priv-app\CarrierServices\CarrierServices.apk | imsservice | raw archive: byte offset 5165424
+priv-app\CarrierServices\CarrierServices.apk | volte | member classes.dex @ offset 5167043
+priv-app\CarrierServices\CarrierServices.apk | volte | raw archive: byte offset 5167819
+priv-app\ConfigUpdater\ConfigUpdater.apk | RCS | member classes.dex @ offset 1811420
+priv-app\ConfigUpdater\ConfigUpdater.apk | RCS | raw archive: byte offset 1811472
+priv-app\FilesGoogle\FilesGoogle.apk | ImsService | member resources.arsc @ offset 416480
+priv-app\FilesGoogle\FilesGoogle.apk | ImsService | raw archive: byte offset 8444220
+priv-app\FilesGoogle\FilesGoogle.apk | RCS | member META-INF/MANIFEST.MF @ offset 19934
+priv-app\FilesGoogle\FilesGoogle.apk | RCS | member classes.dex @ offset 3064340
+priv-app\FilesGoogle\FilesGoogle.apk | RCS | member classes2.dex @ offset 1119345
+priv-app\FilesGoogle\FilesGoogle.apk | RCS | member lib/armeabi-v7a/libtensorflowlite_jni.so @ offset 468668
+priv-app\FilesGoogle\FilesGoogle.apk | RCS | member res/Vq.png @ offset 296
+priv-app\FilesGoogle\FilesGoogle.apk | RCS | raw archive: byte offset 5605052
+priv-app\FilesGoogle\FilesGoogle.apk | imsservice | member resources.arsc @ offset 416480
+priv-app\FilesGoogle\FilesGoogle.apk | imsservice | raw archive: byte offset 8444220
+priv-app\FilesGoogle\FilesGoogle.apk | volte | member resources.arsc @ offset 2974751
+priv-app\FilesGoogle\FilesGoogle.apk | volte | raw archive: byte offset 11002491
+priv-app\GmsCoreGo\GmsCoreGo.apk | MMTEL | member classes4.dex @ offset 6825387
+priv-app\GmsCoreGo\GmsCoreGo.apk | MMTEL | raw archive: byte offset 42172411
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member AndroidManifest.xml @ offset 205344
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member META-INF/CERT.SF @ offset 247783
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member META-INF/MANIFEST.MF @ offset 116148
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member assets/AndroidManifest.xml @ offset 205344
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member assets/ChimeraManifest.pb @ offset 214914
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member assets/chimera-modules/AdsDynamite.apk @ offset 1926542
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member assets/chimera-modules/DynamiteModulesC.apk @ offset 513128
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member assets/chimera-modules/GoogleCertificates.apk @ offset 64182
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member assets/chimera-modules/MapsDynamite.apk @ offset 2018780
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member assets/chimera-modules/MeasurementDynamite.apk @ offset 197854
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member assets/location/armodel/phone_activity_cnn.model.uncompressed @ offset 225490
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member classes.dex @ offset 1892760
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member classes2.dex @ offset 2642330
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member classes3.dex @ offset 2792528
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member classes4.dex @ offset 1663602
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member classes5.dex @ offset 6777562
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member classes6.dex @ offset 6253730
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member lib/armeabi-v7a/libWhisper.so @ offset 66785
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member lib/armeabi-v7a/libgeller_jni_lite_lib.so @ offset 129974
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member lib/armeabi-v7a/libjingle_peerconnection_so.so @ offset 437946
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member lib/armeabi-v7a/libleveldbjni.so @ offset 63140
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member lib/armeabi-v7a/libvcdiffjni.so @ offset 56293
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member res/1oH.pb @ offset 2998
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member res/aEJ.txt @ offset 3521
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member res/dXS.png @ offset 1547
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | member resources.arsc @ offset 258353
+priv-app\GmsCoreGo\GmsCoreGo.apk | RCS | raw archive: byte offset 1926686
+priv-app\GmsCoreGo\GmsCoreGo.apk | volte | member assets/metaresources.arsc @ offset 15210099
+priv-app\GmsCoreGo\GmsCoreGo.apk | volte | member classes4.dex @ offset 7817791
+priv-app\GmsCoreGo\GmsCoreGo.apk | volte | member classes6.dex @ offset 6196836
+priv-app\GmsCoreGo\GmsCoreGo.apk | volte | member resources.arsc @ offset 768430
+priv-app\GmsCoreGo\GmsCoreGo.apk | volte | raw archive: byte offset 43164815
+priv-app\GmsCore\m\independent\AndroidPlatformServices.apk | RCS | member classes.dex @ offset 4590297
+priv-app\GmsCore\m\independent\AndroidPlatformServices.apk | RCS | member lib/armeabi-v7a/libleveldbjni.so @ offset 62382
+priv-app\GmsCore\m\independent\AndroidPlatformServices.apk | RCS | member res/drawable-xhdpi-v4/auth_google_logo.png @ offset 1547
+priv-app\GmsCore\m\independent\AndroidPlatformServices.apk | RCS | member res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png @ offset 296
+priv-app\GmsCore\m\independent\AndroidPlatformServices.apk | RCS | raw archive: byte offset 4597409
+priv-app\GmsCore\m\independent\AndroidPlatformServices.apk | imsbr | member META-INF/CERT.SF @ offset 149906
+priv-app\GmsCore\m\independent\AndroidPlatformServices.apk | volte | member resources.arsc @ offset 3719463
+priv-app\GmsCore\m\independent\AndroidPlatformServices.apk | volte | raw archive: byte offset 10475263
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | ImsManager | member classes.dex @ offset 6875571
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | ImsManager | raw archive: byte offset 6876635
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | MMTEL | member classes.dex @ offset 6690613
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | MMTEL | member resources.arsc @ offset 4670384
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | MMTEL | raw archive: byte offset 6691677
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | RCS | member META-INF/CERT.SF @ offset 8889
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | RCS | member META-INF/MANIFEST.MF @ offset 42977
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | RCS | member classes.dex @ offset 5516016
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | RCS | member res/Vq.png @ offset 296
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | RCS | member resources.arsc @ offset 4341311
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | RCS | raw archive: byte offset 5517080
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | volte | member classes.dex @ offset 7207799
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | volte | member resources.arsc @ offset 388930
+priv-app\GoogleDialerGo\GoogleDialerGo.apk | volte | raw archive: byte offset 7208863
+priv-app\GoogleRestore\GoogleRestore.apk | RCS | member META-INF/CERT.SF @ offset 32619
+priv-app\GoogleRestore\GoogleRestore.apk | RCS | member classes.dex @ offset 2658870
+priv-app\GoogleRestore\GoogleRestore.apk | RCS | member res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png @ offset 296
+priv-app\GoogleRestore\GoogleRestore.apk | RCS | member res/raw/romanesco_backup_contacts_blacklist_account_types.txt @ offset 2920
+priv-app\GoogleRestore\GoogleRestore.apk | RCS | raw archive: byte offset 2659282
+priv-app\GoogleRestore\GoogleRestore.apk | volte | member resources.arsc @ offset 594749
+priv-app\GoogleRestore\GoogleRestore.apk | volte | raw archive: byte offset 4238881
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | MMTEL | member resources.arsc @ offset 1686170
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | MMTEL | raw archive: byte offset 4776202
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | RCS | member META-INF/CERT.SF @ offset 25050
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | RCS | member META-INF/MANIFEST.MF @ offset 8085
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | RCS | member classes.dex @ offset 2441428
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | RCS | member classes2.dex @ offset 2059535
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | RCS | member lib/armeabi-v7a/libelements.so @ offset 214932
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | RCS | member lib/armeabi-v7a/libgoogle_endpointer_jni.so @ offset 96002
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | RCS | member res/Vq.png @ offset 296
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | RCS | raw archive: byte offset 407444
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | volte | member resources.arsc @ offset 1293823
+priv-app\GoogleSearchGo\GoogleSearchGo.apk | volte | raw archive: byte offset 4383855
+priv-app\GoogleSpeechServices\GoogleSpeechServices.apk | RCS | member assets/certs/chromecast_ca.crt @ offset 839
+priv-app\GoogleSpeechServices\GoogleSpeechServices.apk | RCS | member classes.dex @ offset 1495620
+priv-app\GoogleSpeechServices\GoogleSpeechServices.apk | RCS | raw archive: byte offset 3777788
+priv-app\Phonesky\Phonesky.apk | RCS | member META-INF/BNDLTOOL.SF @ offset 62362
+priv-app\Phonesky\Phonesky.apk | RCS | member META-INF/MANIFEST.MF @ offset 42801
+priv-app\Phonesky\Phonesky.apk | RCS | member classes.dex @ offset 111512
+priv-app\Phonesky\Phonesky.apk | RCS | member classes2.dex @ offset 2043696
+priv-app\Phonesky\Phonesky.apk | RCS | member classes3.dex @ offset 2749348
+priv-app\Phonesky\Phonesky.apk | RCS | member classes4.dex @ offset 1016096
+priv-app\Phonesky\Phonesky.apk | RCS | member res/Vq1.png @ offset 296
+priv-app\Phonesky\Phonesky.apk | RCS | raw archive: byte offset 2604459
+priv-app\Phonesky\Phonesky.apk | volte | member resources.arsc @ offset 8837456
+priv-app\Phonesky\Phonesky.apk | volte | raw archive: byte offset 27443088
+priv-app\SearchSelector\SearchSelector.apk | RCS | member classes.dex @ offset 1298066
+priv-app\SearchSelector\SearchSelector.apk | RCS | member res/Vq.png @ offset 296
+priv-app\SearchSelector\SearchSelector.apk | RCS | raw archive: byte offset 1298770
+priv-app\SettingsIntelligence\SettingsIntelligence.apk | RCS | member META-INF/CERT.SF @ offset 17120
+priv-app\SettingsIntelligence\SettingsIntelligence.apk | RCS | member classes.dex @ offset 1551206
+priv-app\SettingsIntelligence\SettingsIntelligence.apk | RCS | raw archive: byte offset 1554794
+priv-app\Wellbeing\Wellbeing.apk | RCS | member META-INF/CERT.SF @ offset 53071
+priv-app\Wellbeing\Wellbeing.apk | RCS | member META-INF/MANIFEST.MF @ offset 104387
+priv-app\Wellbeing\Wellbeing.apk | RCS | member classes.dex @ offset 6451134
+priv-app\Wellbeing\Wellbeing.apk | RCS | member res/Vq.png @ offset 296
+priv-app\Wellbeing\Wellbeing.apk | RCS | raw archive: byte offset 466468
+priv-app\Wellbeing\Wellbeing.apk | volte | member resources.arsc @ offset 1360868
+priv-app\Wellbeing\Wellbeing.apk | volte | raw archive: byte offset 1951796
+
+=== READ / ARCHIVE ERRORS
+None.
+
+=== IMPORTANT NOTES ===
+1. This script scans the folder containing itself and all subfolders.
+2. It scans partition .img files as raw bytes; it does not mount or unpack their filesystems.
+3. A lack of matches inside an .img file does not prove the partition has no IMS files.
+4. APK/JAR/ZIP/APEX entries are inspected after decompression, including classes.dex and manifests.
+5. Matches such as the word 'volte' can be generic; inspect the surrounding file and path.
